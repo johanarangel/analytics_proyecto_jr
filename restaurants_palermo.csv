@@ -1,0 +1,1125 @@
+#idx,nombre,dir,lat,lng,precio_rango,pts_comida,pts_servicio,pts_ambiente,cnt_reviews,cocina,img
+1,Cantina don Chicho en Palermo,Honduras 5710,-34.5833161,-58.4375902,75,29,28,28,22,Italiana,cantina-don-chicho-en-palermo-NOYeL-ec64ac61-7f16-41cb-bda4-be57e26617d7
+2,Rock & Ribs,Libertador 3883 Arco12,-34.5709159,-58.4221296,75,29,29,29,10,Norteamericana,rock-ribs-vD75G-fa33fd43-1fd1-4669-9bd4-2995b4ccb779
+3,Sarkis,Thames 1101,-34.591318571907,-58.43631299837,50,28,23,25,1565,"Arabe, Armenia",photo_48_1.jpg-fdcd7a5b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+4,Osaka Palermo,Soler 5608,-34.580738834843,-58.432616084638,100,,24,26,620,"Japonesa Sushi, Peruana",photo_2116_1.jpg-fdcfeb8a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+5,Taj Mahal,Nicaragua 4345,-34.590139,-58.422778,100,28,28,26,392,India,photo_4191_1.jpg-fdd40a82-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+6,Alé Alé Cooperativa,José Antonio Cabrera 4270,-34.5950894,-58.4251766,75,28,25,28,208,Parrilla,Ale-Ale-Cooperativa-15242-2ff86451-912f-2848-b697-56eac10793fe
+7,Perón Perón restobar,Angel Carranza 2225,-34.5785023,-58.4337199,75,28,25,25,195,Casera,photo_11890_1.jpg-fdd62d49-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+8,Tenkuu Sushi & Cocina Asiática,Cabello 3370,-34.581482,-58.408371,100,28,27,26,180,Japonesa Sushi,photo_6482_2.jpg-fdd4328d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+9,U.G.A.B. Cena de los viernes y sábados,Armenia 1322,-34.591924734439,-58.431166468483,100,28,26,22,169,Armenia,photo_827_1.jpg-fdce6527-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+10,Freud & Fahler,Cabrera 5300,-34.588092,-58.434875,100,28,27,27,167,De Autor,photo_10064_1.jpg-fdd59049-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+11,Elebar,Nicaragua 5001,-34.585223824202,-58.428816447635,75,28,26,27,165,De Autor,Elebar-3564-53859414-297a-4dd8-992b-66a1d17bf8cc
+12,Sakura,Gorriti 4116,-34.595238,-58.423112,75,28,26,27,157,Japonesa Sushi,Sakura-10058-be30c304-740a-71c9-d36b-571f6501148f
+13,Hanan,Julián Álvarez 1272,-34.594596,-58.42665,75,28,20,27,139,Arabe,photo_42_1.jpg-fdcd7a57-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+14,A nos amours,Gorriti 4488,-34.592915,-58.425974,75,28,23,26,130,"Francesa, Italiana",photo_6738_1.jpg-fdd458b8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+15,Mumbai,Honduras 5684,-34.5836172,-58.4371565,75,28,27,26,119,India,mumbai-uzs24-e6af0cf0-9fc2-f953-e3bb-571634f80a17
+16,L´ Adesso,Fray Justo Santamaría de Oro 2047,-34.5837643,-58.4283519,100,28,28,27,115,Italiana,photo_14960_1.jpg-fdd80180-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+17,Buenos Aires verde,Gorriti 5657,-34.584505,-58.437801,75,28,26,27,110,"Natural, Vegetariana",photo_4088_1.jpg-fdd40a36-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+18,Mishiguene,Lafinur 3368,-34.5768115,-58.4120324,100,28,26,17,56,"Judía, De Autor",Mishiguene-15330-2b30b558-61fb-924b-e558-56f1a8bf4bc8
+19,Lo De Lucho,Bonpland 1944,-34.5813732,-58.4352473,75,28,24,26,23,Parrilla,lo-de-lucho-gabpn-c31de46c-aa5d-bb92-a046-571783ad3d3d
+20,Conquer,Costa Rica 5863,-34.6036844,-58.3815591,75,28,28,27,15,"De Autor, Sudeste Asiático, Nórdica",conquer-42Tem-a1384536-c3eb-4f73-870c-b53da6c2ded9
+21,De Rosa Pizzeria,Lafinur 3275,-34.577889,-58.412651,50,28,28,28,5,Pizza,de-rosa-pizzeria-6HmnI-b08317d0-2d86-492e-9b6d-c69cc5abed8e
+22,Sudestada,Guatemala 5602,-34.580250621877,-58.431939742428,75,27,22,25,366,Sudeste Asiático,photo_93_1.jpg-fdcd7a97-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+23,Koh Lanta,Gorriti 4647,-34.5918116,-58.4274181,75,27,26,24,300,Sudeste Asiático,photo_3348_1.jpg-fdd2362d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+24,Il Gran Caruso,El Salvador 5805,-34.581665,-58.43747,100,27,28,23,264,"Italiana, Mediterránea, Pescados Y Mariscos",Il-Gran-Caruso-4072-d87a69c3-0783-ddf0-2a60-55c0d4eb907e
+25,Arte de Mafia,El Salvador 4975,-34.587466917509,-58.429847851002,50,27,26,27,231,"Italiana, Casera, Mediterránea",photo_698_1.jpg-fdce648f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+26,Vrindavan,Humboldt 1721,-34.5846997,-58.4351836,50,27,26,22,221,India,photo_12758_1.jpg-fdd67a7d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+27,Nemo,Cabello 3672,-34.580419486961,-58.411407332405,75,,20,22,203,"Mediterránea, Pescados Y Mariscos, Japonesa Sushi",photo_154_4.jpg-fdcda116-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+28,Social Sushi,Gurruchaga 1776,-34.5881899,-58.4274487,,,27,26,177,"De Autor, Japonesa Sushi",photo_14266_1.jpg-fdd6f061-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+29,Dashi,Fitz Roy 1613,-34.584738515702,-58.437052772435,100,27,27,26,162,"Japonesa Sushi, Peruana",photo_68_1.jpg-fdcd7a6b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+30,Sunae Asian Cantina,Humboldt 1626,-34.5854311,-58.4360237,75,27,23,25,158,Sudeste Asiático,sunae-asian-cantina-0ljmf-a7a5e92c-1319-306b-b6aa-570e361af834
+31,Rave,Gorriti 5092,-34.5888313,-58.4321087,75,27,27,27,158,Internacional,photo_739_1.jpg-fdce64af-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+32,Cucina Paradiso,Arévalo 1538,-34.582326,-58.441994,75,27,24,23,156,Italiana,photo_9150_1.jpg-fdd542d5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+33,Paraje Arévalo,Arévalo 1502,-34.582619,-58.442384,100,27,26,23,152,De Autor,photo_7098_1.jpg-fdd4a754-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+34,Guido´s bar,República de la India 2843,-34.579641132371,-58.415712451585,100,27,26,25,150,Italiana,photo_378_1.jpg-fdcdefab-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+35,Burger Joint,Jorge L. Borges 1766,-34.5876154,-58.4285,25,27,25,23,143,"Norteamericana, Casera",Restaurante.jpg
+36,Arte x 3,Jose Luis Borges 2088,-34.585679,-58.425414,75,27,23,23,134,"Mexicana, Autóctona",photo_2444_1.jpg-fdd0ae5e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+37,Calden del soho,Honduras 4701,-34.59068388466,-58.427017085165,75,27,25,23,117,Parrilla,photo_747_1.jpg-fdce64c3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+38,La pescadorita,Humboldt 1905,-34.583357,-58.433652,75,27,24,26,100,Pescados Y Mariscos,photo_10136_1.jpg-fdd59079-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+39,Hola Jacoba,Thames 1801,-34.5867466,-58.4291227,75,27,23,25,85,Judía,Hola-Jacoba-14982-fdd8018c-f4e4-11e4-be7b-d3500e263ce1
+40,Alaire Terrace Bar,Gurruchaga 1509,-34.5899562,-58.4301474,50,27,28,26,9,"Casera, De Autor",alaire-terrace-bar-prnzt-df73435b-8826-4d0e-9ed8-fc69ea411cf7
+41,Kansas american cuisine,Av. Del Libertador 4625,-34.56592556565,-58.432474387027,100,26,26,22,830,Norteamericana,photo_1182_1.jpg-fdced9bf-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+42,Crizia Restaurant Grill Bar,Gorriti 5143,-34.588413889556,-58.432556582774,100,26,28,27,387,"De Autor, Mediterránea, Porteña",Crizia-Restaurant-Grill-Bar-3824-b63a228b-d2d8-fa40-514f-57178a0ab964
+43,Enfundá la mandolina,Jerónimo Salguero 1440,-34.593497098046,-58.418170730938,50,26,24,24,375,Porteña,Enfunda-la-Mandolina-2007-b37c7cb6-2e68-4923-bc5c-b261be66c565
+44,Bar BQ,El Salvador 5800,-34.581715,-58.437378,75,26,27,27,360,Norteamericana,photo_9716_1.jpg-fdd5697d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+45,Museo Evita restaurante,Juan María Gutierrez 3926,-34.580444,-58.414705,75,,29,27,294,Porteña,photo_2715_1.jpg-fdd0d6e5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+46,Il ballo del mattone,Gorriti 5737,-34.583825,-58.438631,100,26,22,22,231,Italiana,photo_3867_1.jpg-fdd2d204-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+47,Siamo nel forno,Costa Rica 5886,-34.58041,-58.437599,75,26,22,22,230,"Pizza, Italiana",photo_7500_1.jpg-fdd4cd2a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+48,La choza,Gascón 1701,-34.590199004634,-58.422338180976,75,26,26,27,226,Parrilla,photo_282_1.jpg-fdcdc7f3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+49,Cabernet,Jorge L. Borges 1757,-34.587674,-58.428565,75,26,27,26,220,De Autor,photo_789_1.jpg-fdce64fb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+50,Ravello,Honduras 5906,-34.581612511455,-58.439406526214,75,26,22,23,205,Parrilla,photo_495_1.jpg-fdce1687-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+51,Las pizarras bistró,Thames 2296,-34.583085,-58.424076,100,26,18,18,202,Casera,photo_6347_1.jpg-fdd431d8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+52,El Rey del Vino,"Av. Juan B. Justo 887 ",-34.580823,-58.428909,100,26,26,23,192,Porteña,photo_407_1.jpg-fdcdefe7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+53,Croque Madame,Av. del Libertador 1902,-34.582314,-58.400541,75,26,28,22,178,De Autor,photo_2919_1.jpg-fdd17299-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+54,Taco box,Soler 5581,-34.580935813328,-58.4323671376,75,26,23,22,175,Mexicana,photo_3832_1.jpg-fdd2aa98-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+55,Sipan Cevicheria Peruana (The Palermitano Hotel),Uriarte 1648,-34.5871605,-58.4316583,100,,27,28,165,"Peruana, Japonesa Sushi",photo_9942_1.jpg-fdd569fd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+56,Reencuentro,José Antonio Cabrera 4801,-34.591303975939,-58.430224350396,100,26,27,27,151,Porteña,photo_1879_1.jpg-fdcfc41a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+57,Las cortaderas,Charcas 3647,-34.588580090243,-58.416381272657,75,26,27,25,136,Porteña,Las-Cortaderas-982-863e54c0-d749-4b23-b67a-1c44f4d29fbf
+58,Coffee house mood,Fitz Roy 1951,-34.582203,-58.434024,,26,27,26,128,"De Autor, Deli",photo_9414_1.jpg-fdd54315-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+59,Morelia,Humboldt 2005,-34.582282769838,-58.432491751428,75,26,25,23,125,Pizza,photo_892_1.jpg-fdce8b7b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+60,Itamae sushi,Thames 1626,-34.587937,-58.430875,75,26,24,27,120,Japonesa Sushi,photo_2301_1.jpg-fdd0612e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+61,TBone,Armenia 2471,-34.583752032527,-58.418635148961,75,26,26,26,119,"Porteña, Parrilla",photo_3688_1.jpg-fdd2aa71-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+62,Casa Coupage Room,Francisco Acuña de Figueroa 1790,-34.590404,-58.4204398,100,26,27,26,115,De Autor,Casa-Coupage-9592-0ba89be5-9696-4227-bfe4-0ba5d1427220
+63,La panera rosa,Borges 1685,-34.5881965,-58.4293184,75,26,26,22,106,"Deli, Casera",Restaurante.jpg
+64,La fondue,Juan Francisco Seguí 4674,-34.573156232678,-58.422093235986,50,26,23,25,98,"Mediterránea, Pizza, Francesa",La-Fondue-1187-34ca7079-8072-24c4-ff0b-5707ce86ff8d
+65,Lupita,Fitz Roy 1834,-34.5831341,-58.4351583,75,26,28,28,68,Mexicana,Lupita-14144-715a2e30-300f-46c7-9803-954fe23396c8
+66,La Cabrera,José Antonio Cabrera 5099,-34.589274863834,-58.433045782892,100,25,22,26,631,Parrilla,photo_217_1.jpg-fdcda16b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+67,El Trapiche,Paraguay 5099,-34.580094172419,-58.429964754386,50,25,21,23,311,Porteña,photo_418_1.jpg-fdcdf007-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+68,Cangas del Narcea,Beruti 4643,-34.577333352801,-58.424747939848,25,25,26,25,183,Española,photo_363_1.jpg-fdcdef8f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+69,1810 Cocina regional,Julián Álvarez 2000,-34.589404,-58.419056,75,25,20,22,132,Autóctona,photo_979_1.jpg-fdce8bfb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+70,Xalapa,El Salvador 4800,-34.588593219532,-58.428172293475,75,24,22,22,413,Mexicana,photo_131_1.jpg-fdcda0eb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+71,Phuket,Honduras 4169,-34.5941598,-58.4221531,100,24,24,23,319,Sudeste Asiático,photo_7530_1.jpg-fdd4cd32-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+72,Grappa,El Salvador 5802,-34.581610974186,-58.437379728111,75,24,24,26,263,Italiana,photo_531_1.jpg-fdce16c7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+73,Pani,Nicaragua 6044,-34.5781149,-58.4380858,100,24,25,22,192,Casera,Pani-9390-6436bf17-b55a-41f3-b68e-6e9e6e7c623a
+74,Mark´s,El Salvador 4701,-34.589273091194,-58.427152076443,75,24,23,23,141,"Norteamericana, Deli",photo_978_1.jpg-fdce8bf7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+75,Little Rose,Armenia 1672,-34.589461083575,-58.427436416463,100,24,26,26,132,Japonesa Sushi,Little-Rose-3271-8b81c1c8-78a9-f63c-5e09-56d04804664c
+76,Kanu Sushi,Borges 1813,-34.58734,-58.428009,100,24,24,23,129,"Japonesa Sushi, Peruana",Kanu-Sushi-10874-dba25df4-db77-4907-a8e7-9d82e2bc2da2
+77,Bio solo orgánico,Humboldt 2192,-34.581147,-58.4310953,75,24,24,24,126,Natural,Bio-solo-organico-12182-d72b2d7b-0810-41f4-8921-f2ef5db66eb8
+78,Kentucky,Av. Santa Fe 4602,-34.578566630505,-58.42523553728,50,24,20,22,113,Pizza,photo_1858_1.jpg-fdcfc3fa-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+79,Demashk,Charcas 3816,-34.58736936231,-58.418022897612,75,24,17,16,106,Arabe,photo_2086_1.jpg-fdcfeb6a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+80,La Mar Cebichería,Arévalo 2024,-34.578278,-58.4373611,100,24,18,18,88,Peruana,La-Mar-Cebicheria-15788-c3b3f8a3-ef63-4347-a422-9d4599717e0a
+81,El Manto,Costa Rica 5801,-34.580999971732,-58.436661354274,75,23,20,21,421,Armenia,photo_59_2.jpg-fdcd7a68-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+82,Krishna,Malabia 1833,-34.589201808631,-58.424780672509,50,23,26,27,184,"Vegetariana, Natural",photo_1627_1.jpg-fdcf75ce-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+83,La baita,Thames 1603,-34.58813,-58.431169,100,23,20,18,149,Italiana,La-Baita-1898-fdcfc43a-f4e4-11e4-be7b-d3500e263ce1
+84,Me leva Brasil,Costa Rica 4488,-34.589471426641,-58.424909658693,75,23,18,17,122,Brasilera,photo_1396_1.jpg-fdcf2843-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+85,Olaya,Humboldt 1550,-34.5860338,-58.4367305,75,23,17,22,119,Peruana,photo_14324_1.jpg-fdd6f091-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+86,Arevalito,Arévalo 1478,-34.582904948941,-58.442731603318,75,23,26,27,111,"Natural, Vegetariana",photo_3854_1.jpg-fdd2d1e4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+87,Campobravo,Honduras 5600,-34.584192,-58.436315,75,23,22,18,102,"Autóctona, Parrilla",Campo-Bravo-3946-106727e0-6613-ddc7-916b-5761a4daf19c
+88,Tipo Siete,Armenia 1315,-34.592099,-58.4312515,25,23,25,18,11,"Deli, De Autor, Casera",tipo-siete-xo19z-d48d8e25-e783-8728-7d5b-575965447d9d
+89,Miranda,Costa Rica 5602,-34.582594551354,-58.434620387329,100,22,22,23,375,Parrilla,photo_1099_1.jpg-fdceb31b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+90,Cheff Iusef,Malabia 1378,-34.592257776959,-58.42939226848,100,22,22,21,310,Arabe,photo_1518_1.jpg-fdcf4f32-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+91,Oui Oui,Nicaragua 6068,-34.577812177147,-58.438275585567,75,22,22,22,296,"Deli, Casera, Francesa",photo_2042_1.jpg-fdcfeb2a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+92,Meridiano 58,Jorge Luis Borges 1689,-34.588167,-58.429259,50,22,22,22,237,"Porteña, Latinoamericana",photo_1125_1.jpg-fdced94f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+93,Armenia,Armenia 1366,-34.591574562978,-58.430635017254,100,22,25,23,213,Armenia,Armenia-136-09bd48f1-bf97-49c9-9c2e-2f09c1023288
+94,El preferido de Palermo,Jorge Luis Borges 2108,-34.585514,-58.425283,100,22,17,20,202,Porteña,photo_411_1.jpg-fdcdeff3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+95,Bangalore,Humboldt 1416,-34.587182979539,-58.438121198159,100,22,24,23,200,India,photo_2740_1.jpg-fdd0fd1d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+96,El Muelle,"Av. Rafael Obligado s/n ",-34.563391,-58.403449,75,22,26,21,200,"Pescados Y Mariscos, Mediterránea",El-muelle-8432-fdd51c06-f4e4-11e4-be7b-d3500e263ce1
+97,Lo de Jesús,Gurruchaga 1406,-34.590538547592,-58.431193206938,100,22,22,22,185,Parrilla,photo_219_1.jpg-fdcda16f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+98,Restaurant Jardín Japonés,Av. Casares 2966,-34.575278,-58.408384,100,22,22,22,179,Japonesa Sushi,photo_392_1.jpg-fdcdefc7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+99,Minga,Costa Rica 4528,-34.589172879878,-58.425353903626,75,22,20,21,157,Parrilla,photo_3362_1.jpg-fdd23645-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+100,Trattoria Olivetti,Cerviño 3800,-34.5791442,-58.4125207,75,22,26,22,138,Italiana,photo_11676_1.jpg-fdd62d09-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+101,Voulez bar,Av. Cerviño 3802,-34.579064,-58.412266,100,22,18,22,128,Pizza,photo_2934_1.jpg-fdd172b5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+102,Angelín,Av. Córdoba 5270,-34.589714658123,-58.436807131542,75,22,16,16,126,Pizza,photo_669_1.jpg-fdce3e63-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+103,Tucson (Hipódromo de Palermo),Av del Libertador 4241,-34.56947,-58.426557,75,22,22,20,68,Norteamericana,photo_10384_1.jpg-fdd5b7f9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+104,Bar du Marché,Nicaragua. 5946,-34.5789171,-58.4370082,100,22,22,22,59,"Francesa, Japonesa Sushi",photo_12622_1.jpg-fdd65435-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+105,Glumy,Av. Córdoba 4399,-34.595511,-58.428042,75,22,26,24,53,Parrilla,Glumy-7372-173b7a91-a271-fc1a-bbd4-574f38784732
+106,Fukuro Noodle Bar,Costa Rica 5514,-34.5833144,-58.4338522,50,22,21,21,45,Internacional,Fukuro-Noodle-Bar-14390-4cbf96ff-1075-4d73-ab5b-c1bccdc43d45
+107,Heisenburger,Gorriti 5054,-34.5890912,-58.4318447,50,22,23,17,35,Casera,heisenburger-rsi0i-f148120e-cd24-9b33-b843-56f04786c752
+108,Cervelar,José Antonio Cabrera 4399,-34.5942451,-58.4260704,50,22,26,24,27,Internacional,cervelar-nbkyd-50baf334-95a3-0f51-371a-56c37dd26b03
+109,Green bamboo,Costa Rica 5802,-34.5810919,-58.4367144,75,21,22,14,435,Sudeste Asiático,photo_94_1.jpg-fdcd7a9b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+110,Don Julio,Guatemala 4691,-34.5863738,-58.4244056,100,21,21,20,353,Parrilla,photo_802_1.jpg-fdce650f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+111,La rosadita,Thames 1696,-34.587411864173,-58.430260199934,100,21,22,22,266,De Autor,photo_700_1.jpg-fdce6493-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+112,Limbo,Armenia 1820,-34.588507702123,-58.425994902033,100,21,20,24,160,De Autor,photo_2272_1.jpg-fdd060ea-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+113,Club Eros,Uriarte 1609,-34.587328675684,-58.431990151557,50,21,17,17,138,"Porteña, Casera, Parrilla",photo_893_1.jpg-fdce8b7f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+114,Dean & Dennys,Malabia 1591,-34.5908201,-58.4271244,75,21,23,21,103,Norteamericana,Dean---Dennys-13300-c95ed532-dd65-478a-9283-7f226678e042
+115,La Hormiga,Armenia 1680,-34.5894932,-58.427399,50,21,17,16,77,"Pizza, Parrilla",La-Hormiga-14622-4ad675ae-7717-ad40-214c-56f049eef537
+116,La escondida,Costa Rica 4464,-34.58965683537,-58.424633743251,75,20,18,14,257,"Casera, Parrilla",photo_2839_1.jpg-fdd14b11-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+117,La Fábrica del Taco,Gorriti 5062,-34.589029,-58.431813,75,20,21,22,183,Mexicana,photo_6879_1.jpg-fdd4a6a2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+118,Dandy,Av. Del Libertador 2410,-34.579594,-58.405754,75,20,22,23,66,De Autor,photo_6862_1.jpg-fdd4a696-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+119,Il Matterello,Thames 1490,-34.5887159,-58.4322828,100,20,12,14,48,Italiana,Il-Matterello-14424-01361e0a-561f-4813-aaa3-b459cb3d599a
+120,La Parolaccia Casa Tua,Av. Cerviño 3561,-34.580064,-58.409267,75,18,26,18,283,Italiana,photo_2065_1.jpg-fdcfeb52-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+121,Casa Cruz Brasserie Porteña,Uriarte 1658,-34.587003518909,-58.431499841503,100,,23,20,269,Porteña,Casa-Cruz-1598-b58910f2-d443-de06-c684-57163824cb5f
+122,El club de la milanesa,Gorriti 5702,-34.584163,-58.438255,100,18,18,17,172,"Porteña, Parrilla",photo_3851_1.jpg-fdd2d1dc-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+123,Janio,Malabia 1805,-34.589356608072,-58.425014248425,75,18,17,17,169,"Porteña, De Autor",photo_288_1.jpg-fdcdc7f7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+124,La Payuca,Arenales 3443,-34.5868291,-58.4115208,100,18,17,17,162,Autóctona,photo_1057_1.jpg-fdceb2b7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+125,Club El Don Steak House,Angel Justiniano Carranza 1859,-34.581348,-58.4369577,100,18,21,18,141,Parrilla,photo_15032_1.jpg-fdd801c4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+126,Ninina Bakery,Gorriti 4738,-34.5911703,-58.4284895,50,18,21,8,135,"De Autor, Deli",photo_14360_1.jpg-fdd6f0a1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+127,Gran Dabbang,Av. Raúl Scalabrini Ortiz 1543,-34.5912636,-58.4255498,100,18,8,17,61,De Autor,Restaurante.jpg
+128,La Esperanza de los Ascurra,Fitz Roy 1818,-34.5832397,-58.4352846,75,18,22,26,47,Española,photo_14396_1.jpg-fdd6f0b1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+129,Birkin Coffee Bar,República Árabe Siria 3061,-34.5803126,-58.413269,75,18,22,22,43,Casera,photo_14444_1.jpg-fdd6f0cd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+130,María Félix,Guatemala 5200,-34.582716968917,-58.428860142744,75,17,17,16,297,Mexicana,photo_3147_2.jpg-fdd1c10a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+131,Antares,Armenia 1447,-34.59097808801,-58.429730904219,75,17,17,18,275,"Española, Internacional",photo_2796_1.jpg-fdd14ab1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+132,Tegui,Costa Rica 5852,-34.580671,-58.43728,100,17,23,20,222,De Autor,Restaurante.jpg
+133,Bodega 52,Dr. Emilio Ravignani 1905,-34.580161235378,-58.437645128297,,17,21,24,146,De Autor,Restaurante.jpg
+134,Sushi night,Aráoz 2791,-34.584072,-58.412702,50,17,17,18,127,Japonesa Sushi,photo_2437_1.jpg-fdd0ae4a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+135,Proper,Araoz 1676,-34.5909873,-58.4235712,100,17,16,14,11,Variada,proper-fyrxF-0d19fb73-8e6e-4793-923b-ea949ede598a
+136,Las Cabras,Fitz Roy 1795,-34.583312908192,-58.435422248618,50,16,6,0,408,"Autóctona, Parrilla",photo_3901_1.jpg-fdd2f850-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+137,Vera Cruz,Godoy Cruz 1819,-34.586625814842,-58.432678916913,75,14,17,16,144,Mexicana,photo_1401_1.jpg-fdcf284b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+138,Muu lechería,Armenia 1810,-34.588641,-58.426158,75,12,23,16,219,Norteamericana,photo_7694_1.jpg-fdd4f4a7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+139,Bodensee lo del alemán,Honduras 6000,-34.58079,-58.440399,100,12,16,14,158,"Alemana, Húngara",photo_10336_1.jpg-fdd590d9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+140,La dorita de enfrente,Humboldt 1892,-34.583379172769,-58.433748235167,100,8,21,16,239,Parrilla,photo_1225_1.jpg-fdcf0133-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+141,Casa Cavia,Cavia 2985,-34.5773445,-58.4071608,100,4,22,12,34,"De Autor, Mediterránea, Porteña",Casa-Cavia-15404-78fb00e3-674c-826f-87f4-5747634be87a
+142,Frank´s,Arévalo 1445,-34.5832457,-58.443017,75,0,17,18,102,De Autor,Franks-13610-75b58df2-5b51-4caf-9f03-fff7c1ab7be8
+143,Trixie  (Costa Salguero),"Salguero y Obligado ",-34.570651,-58.399012,75,0,25,27,101,Norteamericana,photo_3910_1.jpg-fdd2f874-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+144,La pharmacie,República Dominicana (Charcas) 3494,-34.589892766493,-58.414593059685,50,0,22,24,100,"De Autor, Italiana",photo_3870_1.jpg-fdd2f81c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+145,Pàjaro que comió...,Humboldt 1962,-34.582702359254,-58.432972598416,50,,,,,Autóctona,photo_3859_1.jpg-fdd2d1f0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+146,Catrina,Uriarte 1830,-34.5858958,-58.4297156,75,,,,,"Francesa, Mexicana",Catrina-15136-d0f0dd7e-c662-8ba2-f90e-570e7813cb9a
+147,La peca,Gascón 1493,-34.59278774179,-58.422670182898,100,,,,,Porteña,photo_1270_1.jpg-fdcf0187-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+148,b-Blue - deli & natural Bar,Armenia 1692,-34.589412,-58.427282,50,,,,,Deli,Bblue-deli-natural-bar-7157-ca449c31-9cfd-feaa-0407-5773d80d218f
+149,La dorita botánico,Bulnes 2593,-34.582094,-58.406675,75,,,,,Parrilla,photo_6322_1.jpg-fdd431b4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+150,Viejo Agump,Armenia 1382,-34.591447227901,-58.430441762262,50,,,,,Armenia,Viejo-Agump-1424-fdcf2877-f4e4-11e4-be7b-d3500e263ce1
+151,Sheldon,Honduras 4969,-34.5890149,-58.4297109,100,,,,,"De Autor, Variada",Restaurante.jpg
+152,Bella Italia ristorante,República Árabe Siria 3285,-34.578042145531,-58.411795241892,75,,,,,Italiana,photo_185_1.jpg-fdcda13f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+153,Amores porteños,Santos Dumont 2606,-34.575196,-58.440303,75,,,,,"Casera, Porteña",photo_6458_1.jpg-fdd43278-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+154,Chipper,Humboldt 1893,-34.5834508,-58.4337677,75,,,,,"Inglesa, Irlandesa, Pescados Y Mariscos",photo_13608_1.jpg-fdd6a251-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+155,Duarte bar,Aráoz 1218,-34.5940939,-58.42806,50,,,,,"Pizza, Porteña",Duarte-bar-14284-34411826-b1b7-882a-e6e6-56eb05377aea
+156,Soria,Gorriti 5151,-34.5884407,-58.432668,100,,,,,Porteña,photo_12748_1.jpg-fdd65465-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+157,Los remanseros,Costa Rica 3990,-34.591606,-58.419037,75,,,,,"Pescados Y Mariscos, Porteña, Parrilla",photo_3989_1.jpg-fdd3e272-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+158,La rosadita restaurante de fondue,Honduras 5710,-34.58331,-58.437436,100,,,,,De Autor,Restaurante.jpg
+159,Casa mua,Soler 4202,-34.5901,-58.420258,25,,,,,"De Autor, Mediterránea",photo_6947_1.jpg-fdd4a6f1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+160,Le pain quotidien,Jerónimo Salguero 3075,-34.5769722,-58.4052555,50,,,,,"Deli, Vegetariana, Natural",photo_12806_1.jpg-fdd67a89-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+161,Rond point,Av. Figueroa Alcorta 3009,-34.580598,-58.3982914,100,,,,,Internacional,Rond-Point-1623-e5e0f884-f639-ed02-d7c3-56e9ac09ea44
+162,La Pascana,Paraguay 5100,-34.580086319545,-58.429974793907,,,,,,Pizza,photo_1474_1.jpg-fdcf4ede-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+163,Pinuccio & Figli,Honduras 5255,-34.587107,-58.432529,100,,,,,"Italiana, De Autor",photo_6997_1.jpg-fdd4a711-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+164,Boteco do Brasil,Honduras 5774,-34.582775,-58.4380831,75,,,,,Brasilera,Restaurante.jpg
+165,Le Pain Quotidien,Armenia 1641,-34.5897731,-58.4277478,100,,,,,"Deli, Vegetariana, Natural",photo_13516_1.jpg-fdd6a219-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+166,Sans panes & cerveza,Serrano 1595,-34.588891,-58.429989,75,,,,,Porteña,photo_9754_1.jpg-fdd56991-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+167,The shangai dragon,Aráoz 1199,-34.594207,-58.428167,100,,,,,China,Restaurante.jpg
+168,Sullivan´s Irish pub & restaurant,El Salvador 4919,-34.5879426,-58.4293019,100,,,,,Irlandesa,Sullivans-Irish-Pub-Restaurant-1123-b3c68e9f-7ee2-8051-04e4-56f2d5488643
+169,Club serrano,Serrano 1551,-34.589034,-58.430634,75,,,,,Internacional,Club-Serrano-8690-5bb491b7-7993-6003-5976-576aa5b2f36d
+170,Ballester parrilla de autor,Fray Justo Santamaría de Oro 1801,-34.5859701,-58.4303187,75,,,,,"De Autor, Parrilla, Porteña",photo_12996_1.jpg-fdd67abd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+171,Taco box,Av. Cerviño 3768,-34.5794082,-58.4117141,75,,,,,Mexicana,Restaurante.jpg
+172,La pulpería,Uriarte 1667,-34.586943796235,-58.431409784554,100,,,,,Casera,photo_3890_1.jpg-fdd2f834-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+173,Al shark,Av. Raúl Scalabrini Ortiz 1426,-34.591924830514,-58.426589390945,100,,,,,Arabe,photo_36_1.jpg-fdcd7a4b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+174,Bartók,Costa Rica 4600,-34.5887228,-58.426232,,,,,,Mediterránea,photo_780_1.jpg-fdce64f7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+175,Bartola,Gurruchaga 1795,-34.5880836,-58.4272385,75,,,,,"Casera, Pizza",Restaurante.jpg
+176,Francesco,Soler 5598,-34.5809197,-58.4325595,,,,,,Peruana,photo_11570_1.jpg-fdd605cd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+177,La colonia,"Araoz 1589/99 ",-34.591574,-58.424261,50,,,,,"Casera, De Autor, Parrilla",photo_10648_1.jpg-fdd5b861-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+178,Río Alba,Av. Cerviño 4499,-34.575898727271,-58.420949890919,75,,,,,Parrilla,photo_448_1.jpg-fdce164f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+179,Tea connection,Cerviño Av. 3550,-34.580155,-58.409112,100,,,,,"Deli, Natural",photo_6426_1.jpg-fdd43240-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+180,Moche Peruano Fu-kei & Sushi Bar,Nicaragua 5901,-34.57918380682,-58.436524931218,,,,,,"Peruana, Japonesa Sushi",photo_2724_1.jpg-fdd0fd09-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+181,Cocu,Malabia 1510,-34.5913469,-58.4279858,50,,,,,"Francesa, Casera",photo_13334_1.jpg-fdd67ae9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+182,Fifí almacén,Gorriti 4812,-34.5906476,-58.4293092,50,,,,,"Casera, Natural, Deli",photo_13536_1.jpg-fdd6a231-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+183,Efímero Festín,Uriarte 1411,-34.588699,-58.433875,,,,,,De Autor,photo_7095_1.jpg-fdd4a74c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+184,Los tatas,Arévalo 1667,-34.581249,-58.440705,,,,,,Parrilla,photo_7335_1.jpg-fdd4cce0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+185,Alhambra,Charcas 4309,-34.583644,-58.423124,50,,,,,Arabe,La-Alhambra-7453-fdd4cd12-f4e4-11e4-be7b-d3500e263ce1
+186,Farinelli,Bulnes 2707,-34.581068,-58.406199,100,,,,,"Deli, Casera",photo_7116_1.jpg-fdd4a760-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+187,Sintaxis,Nicaragua 4849,-34.5863408,-58.4275418,75,,,,,"Deli, De Autor, Casera",Sintaxis-11960-92c34480-b21f-4526-9f18-bbcefddc241e
+188,Tiendas Naturales,Cabello 3401,-34.581354,-58.40867,100,,,,,"Deli, Natural, Casera",photo_9342_1.jpg-fdd542fd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+189,Sigue al Conejo Blanco,Godoy Cruz 1554,-34.5882144,-58.4350576,50,0,28,28,62,"Pizza, Casera, Natural",Sigue-al-Conejo-Blanco-14998-8a118bca-8c63-4ceb-994b-9a939b62d985
+190,Garum,Malabia 1721,-34.589894636845,-58.425826207381,,,,,,Mediterránea,photo_1840_1.jpg-fdcfc3ea-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+191,Isabel,Uriarte 1664,-34.587036,-58.431472,75,,,,,Internacional,photo_7784_2.jpg-fdd4f500-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+192,Tiempo de gitanos (tablao flamenco),El Salvador 5575,-34.583460842174,-58.435150292961,100,,,,,Española,photo_971_1.jpg-fdce8be3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+193,El armenio,Av. Raúl Scalabrini Ortiz 3190,-34.5799783,-58.4098899,75,,,,,"Armenia, Internacional",El-armenio-12086-fa1e99bd-0a8a-44ee-9086-5a0707cb1ad1
+194,Social la lechuza,Uriarte 1980,-34.584755,-58.42807,100,,,,,"Parrilla, Porteña",photo_6406_1.jpg-fdd43220-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+195,El Bonpland,Bonpland 2113,-34.580048,-58.433531,75,,,,,Parrilla,photo_4136_1.jpg-fdd40a7a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+196,Nucha,Armenia 1540,-34.590438,-58.428794,75,,,,,"Deli, Casera, Variada",photo_10330_1.jpg-fdd590d5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+197,Sushi Sensei,Thames 1516,-34.588734,-58.432085,100,,,,,Japonesa Sushi,photo_4007_1.jpg-fdd3e292-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+198,Sugar,Costa Rica 4619,-34.588565,-58.426404,,,,,,Norteamericana,photo_7717_1.jpg-fdd4f4c7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+199,Salvador,El Salvador 4804,-34.5886664,-58.4282286,100,,,,,"De Autor, Parrilla",photo_12626_1.jpg-fdd6543d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+200,La Costilla,Humboldt 1612,-34.585558,-58.4361647,100,,,,,Parrilla,photo_15004_1.jpg-fdd801a4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+201,Carita morena,Honduras 5502,-34.584892,-58.435398,,,,,,Porteña,photo_748_1.jpg-fdce64c7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+202,Oliva´s resto & bar,Guatemala 5726,-34.579243458462,-58.433201721346,,,,,,Mediterránea,photo_2687_1.jpg-fdd0d6ad-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+203,El bochín,Julián Alvarez 2355,-34.587691,-58.41639,50,,,,,Porteña,photo_1008_1.jpg-fdceb24b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+204,Ña Serapia,Av. Las Heras 3357,-34.58289006152,-58.407746032596,50,,,,,Autóctona,photo_917_1.jpg-fdce8ba7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+205,Kyodo,Ortiz de Campo Av. 2670,-34.581726,-58.40405,50,,,,,Japonesa Sushi,photo_7301_1.jpg-fdd4a7b4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+206,The bowie,Armenia 1439,-34.591132,-58.429845,100,,,,,De Autor,Restaurante.jpg
+207,Carnal,Avenida Coronel Niceto Vega 5511,-34.5873223,-58.4384861,100,,,,,"Variada, Internacional",photo_846_3.jpg-fdce8b55-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+208,SUSHIPOP izakaya Palermo,Soler 5596,-34.5809338,-58.4325404,100,,,,,Japonesa Sushi,Sushi-Pop-Izakaya-15790-1d410553-010e-28ab-151a-56ce299f4e37
+209,La estancia de Palermo,Av. Santa Fé 3954,-34.582946,-58.41913,100,,,,,"Parrilla, Mediterránea, Porteña",La-Estancia-2032-6ecf3196-edc7-4354-8e8c-7a79a69ca348
+210,La Josefina,Lafinur 3006,-34.580413206926,-58.414414002833,75,,,,,Parrilla,photo_3155_1.jpg-fdd1c119-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+211,Rey de copas,Gorriti 5176,-34.5882918,-58.4328963,75,0,21,14,51,De Autor,Rey-de-copas-12576-b4441e91-5063-2fab-41b4-56f2d33f43b5
+212,Siga la vaca express,Fitz Roy 1982,-34.581925,-58.433675,75,,,,,Parrilla,photo_10644_1.jpg-fdd5b859-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+213,La gran Hollywood,Bonpland 2205/7,-34.579486,-58.432921,75,,,,,Parrilla,photo_7875_1.jpg-fdd4f552-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+214,Bakano,Fitz Roy 1906,-34.582551563265,-58.434551537499,75,,,,,"Pizza, Mediterránea",photo_2516_1.jpg-fdd0aeb9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+215,Home Buenos Aires,Honduras 5860,-34.581978102612,-58.438940420795,100,,,,,De Autor,Home-Buenos-Aires-2670-d99039f9-2b9a-2507-560f-5736138f9d7a
+216,Jano,Julián Alvarez 1479,-34.5930047,-58.4244852,,,,,,Italiana,photo_13570_1.jpg-fdd6a241-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+217,Felicidad,Gurruchaga 1711,-34.5886143,-58.4280825,75,,,,,Deli,Felicidad-12804-813c9fdc-1bd1-4059-82bd-861ab74616cc
+218,Verne club,Av. Medrano 1475,-34.5919038,-58.4191779,100,,,,,Variada,Verne-club-11876-3c78d407-6ccc-4199-8671-0755e6b61e9a
+219,Helena Resto Bar,Nicaragua 4816,-34.586624,-58.427183,,,,,,Variada,photo_4716_1.jpg-fdd40ab2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+220,SushiClub Sinclair,Sinclair 3102,-34.57394,-58.422952,100,,,,,"Japonesa Sushi, Sudeste Asiático",photo_6902_1.jpg-fdd4a6c2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+221,Sonoman,Fitz Roy 1655,-34.584412291723,-58.43667962929,100,,,,,De Autor,photo_151_1.jpg-fdcda10b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+222,Piola,Gorriti 5751,-34.583718,-58.438772,100,,,,,Italiana,Piola-9044-250a5b93-9f63-3973-faa3-56fd79eb76a7
+223,La Trattoria de Giulio,Sinclair 2934,-34.575928,-58.424024,50,,,,,Italiana,photo_6775_1.jpg-fdd47eec-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+224,Esquina libertad,Uriarte 1501,-34.588141,-58.433111,50,,,,,"Arabe, Pizza",photo_6923_1.jpg-fdd4a6e5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+225,Almacén oui oui,Nicaragua 6099,-34.577606,-58.438733,75,,,,,"Deli, Casera, Francesa",photo_7491_1.jpg-fdd4cd1e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+226,Nicky Harrison,Malabia 1764,-34.5897325,-58.4254543,100,,,,,"Japonesa Sushi, Peruana",Nicky-14194-5e655ae8-3a12-4820-ad05-f425a1840d71
+227,El dorrego,Nicaragua 6086,-34.577659406603,-58.438470584896,100,,,,,Parrilla,photo_2893_1.jpg-fdd17269-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+228,Tazz,Armenia 1744,-34.58898900803,-58.426722597896,,,,,,Porteña,photo_2889_1.jpg-fdd17265-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+229,Don Niceto,Niceto Vega 5255,-34.589197,-58.435754,100,,,,,Parrilla,photo_8442_1.jpg-fdd51c0a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+230,Finisterra,Honduras 5190,-34.587443356694,-58.431975526776,50,,,,,"Pizza, Porteña",photo_1392_1.jpg-fdcf283f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+231,Fitz bar,Fitz Roy 1995,-34.581762,-58.433525,,,,,,"De Autor, Mediterránea",photo_6857_1.jpg-fdd4a68e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+232,Two brothers,Malabia 1825,-34.589246037042,-58.424847408485,,,,,,Mediterránea,photo_998_1.jpg-fdceb233-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+233,Omm,Honduras 5656,-34.583621787309,-58.436843950361,,,,,,De Autor,Omm-210-7fe7c0ed-6e8e-ad7e-6fa3-5730a6e88d8a
+234,Melmac resto bar,Fitz Roy 1627,-34.584728,-58.436932,,,,,,"Pizza, Italiana",photo_6952_1.jpg-fdd4a6f9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+235,Haysam,Av. Scalabrini Ortiz 1601,-34.590867,-58.424879,50,,,,,Arabe,photo_6786_1.jpg-fdd47f08-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+236,Oviedo,Guatemala 5501,-34.5810837,-58.431038,100,,,,,"Pescados Y Mariscos, Parrilla, Porteña",photo_2792_1.jpg-fdd0fd85-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+237,Amores porteños,Honduras 5799,-34.5825362,-58.4383199,100,,,,,"Casera, Porteña",Restaurante.jpg
+238,Club M Omakase (a puertas cerradas),Nicaragua 5946,-34.5789274,-58.4370204,100,,,,,Japonesa Sushi,Club-M-Omakase--A-puertas-cerradas--12788-c2da1dbf-842b-4bb5-8880-8badb397af68
+239,Mundo bizarro,Serrano 1222,-34.591229275325,-58.434136638502,75,,,,,Norteamericana,photo_813_1.jpg-fdce651b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+240,Caracas,Guatemala 4802,-34.585583,-58.425384,,,,,,Venezolana,photo_7673_1.jpg-fdd4f497-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+241,Único,Honduras 5604,-34.584038712646,-58.436310603097,75,,,,,Internacional,photo_803_1.jpg-fdce6513-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+242,Romario,Gurruchaga 1493,-34.589960321802,-58.430293901642,100,,,,,Pizza,photo_3361_1.jpg-fdd23641-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+243,Taco box,Pena 2893,-34.5868631,-58.4036011,75,,,,,Mexicana,Restaurante.jpg
+244,Límina Resto,Humboldt 1551,-34.58604,-58.436686,,,,,,"Italiana, Mediterránea",photo_14328_1.jpg-fdd6f099-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+245,Trixie,Gorriti 5567,-34.5851606,-58.436875,100,,,,,Norteamericana,Restaurante.jpg
+246,Romario,Fitz Roy 2109,-34.58075256152,-58.43249422832,,,,,,Pizza,photo_1051_1.jpg-fdceb2ab-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+247,La Cátedra Restaurante,Cerviño av. 4699,-34.57506,-58.423486,75,0,18,18,40,"Variada, Internacional",La-Catedra-Restaurante-7838-118a9bf0-3906-bd31-048b-56e32bcf7820
+248,Ohsawa,Honduras 5900,-34.5819683,-58.4392922,50,,,,,Macrobiótica,ohsawa-5prsl-fdce1633-f4e4-11e4-be7b-d3500e263ce1
+249,Guaresnei,Nicaragua 5802,-34.580067,-58.435528,100,,,,,Porteña,photo_7745_1.jpg-fdd4f4db-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+250,Brasa viva,Antonio Beruti 3393,-34.5865926,-58.410474,100,,,,,Parrilla,photo_9066_1.jpg-fdd542b9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+251,La Robla Palermo,Costa Rica 4001,-34.5913851,-58.4193421,100,,,,,"Española, Pescados Y Mariscos",La-Robla-Palermo-15054-dbd242f9-dbac-4ee9-a1b8-64ba89b0891f
+252,Polite,Honduras 5564,-34.58432423845,-58.435945360823,,,,,,De Autor,photo_2814_1.jpg-fdd14add-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+253,Porota,Gorriti 5881,-34.582728,-58.440187,,,,,,Casera,photo_6241_1.jpg-fdd43198-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+254,Coco café,Demaría 4615,-34.5743733,-58.4219063,75,,,,,Casera,Restaurante.jpg
+255,Birmania,José Antonio Cabrera 5115,-34.5892489,-58.4332041,50,,,,,"Casera, Pizza",photo_11382_1.jpg-fdd6058d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+256,Buda Bar,Costa Rica 4659,-34.588299,-58.426793,25,,,,,"Pizza, Porteña",Restaurante.jpg
+257,Victoria Brown Coffee & Bar,Costa Rica 4827,-34.5872278,-58.4284127,100,,,,,"De Autor, Mediterránea, Variada",Victoria-Brown-Coffee---Bar-14716-b071f8ed-b825-4c20-9404-3db4caaff894
+258,Congo bar,Honduras 5329,-34.586603,-58.433166,100,,,,,"Mediterránea, Pizza",photo_8268_3.jpg-fdd51bd8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+259,Crónico,Jorge L. Borges 1646,-34.588423,-58.42972,75,,,,,Pizza,photo_1637_1.jpg-fdcf75d2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+260,Rietti,Jorge Luis Borges 2205,-34.5846022,-58.4241727,75,,,,,"Mediterránea, Internacional",photo_12028_1.jpg-fdd62da9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+261,Bella Italia café & bar,Republica Arabe Siria 3330,-34.577611,-58.41149,75,,,,,Italiana,photo_8862_1.jpg-fdd5428a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+262,Nola,Gorriti 4389,-34.5935595,-58.4250841,75,,,,,Internacional,photo_15114_1.jpg-fdd8020c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+263,Lucio,Güemes 4001,-34.586086,-58.4174258,50,,,,,Pizza,Restaurante.jpg
+264,Dashi,Av. Figueroa Alcorta 3399,-34.5776163,-58.4034181,75,,,,,"Japonesa Sushi, Peruana",photo_13966_1.jpg-fdd6a29d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+265,La Pastronería,El Salvador 6026,-34.5798414,-58.4396796,75,,,,,Deli,Restaurante.jpg
+266,Basta Pablo!,Honduras 5615,-34.5840419,-58.4364402,75,,,,,"Casera, Variada",Basta-Pablo-12702-956f1c44-c7ca-44e9-97a6-94d2ae57739b
+267,Almacén de pizzas,Fitz Roy 1994,-34.58176,-58.433577,100,,,,,Pizza,photo_10078_1.jpg-fdd59055-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+268,Il Migliore,Charcas 2802,-34.594203,-58.406142,100,,,,,Pizza,photo_6787_1.jpg-fdd47f0c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+269,Negroni,El Salvador 5602,-34.5833547,-58.4354165,75,,,,,"Internacional, Mediterránea, Italiana",photo_12812_1.jpg-fdd67a91-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+270,Querido Gonzalez,Honduras 4999,-34.5888557,-58.4299316,100,,,,,Pizza,Restaurante.jpg
+271,Belushi,Honduras 5333,-34.586573,-58.433204,75,,,,,Porteña,Restaurante.jpg
+272,Connieleone,Charcas 3667,-34.588402889219,-58.416622678792,,,,,,Parrilla,photo_981_1.jpg-fdce8c03-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+273,Bar abierto,Jorge Luis Borges 1613,-34.588404,-58.429756,,,,,,"Mediterránea, Española",photo_778_1.jpg-fdce64f3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+274,Indiana,Armenia 1784,-34.5888047,-58.426404,100,,,,,Norteamericana,photo_14490_1.jpg-fdd716fd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+275,Accademia de la pizza,Güemes 3299,-34.5903248,-58.4111521,75,,,,,Pizza,Restaurante.jpg
+276,Don Jacinto,Gorriti 5299,-34.5875265,-58.433928,75,,,,,Parrilla,photo_11962_1.jpg-fdd62d81-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+277,Santos Sabores,Armenia 1880,-34.588256,-58.425503,,,,,,Deli,Restaurante.jpg
+278,Ralph´s,Gurruchaga 1830,-34.5878394,-58.4269234,100,,,,,De Autor,Ralphs-14892-ed74b86f-fddb-0f81-3f32-55e738ed8d24
+279,UCO (Fierro Hotel),Soler 5862,-34.5787787,-58.4352438,50,,,,,De Autor,UCO--Fierro-Hotel--15572-bec1b3cb-a76f-4743-a493-bc949c33323c
+280,Eretz,Malabia 1583,-34.5909162,-58.4272282,100,0,17,21,29,"Arabe, Variada, Mediterránea",eretz-ccoa5-f40ead8c-7a05-8d55-6563-55c4aaf44cd2
+281,Voltaire coffee & deli,Angel Justiniano Carranza 1946,-34.581051,-58.436621,75,,,,,"Deli, Casera",photo_9826_1.jpg-fdd569c9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+282,Kokoro Sushi Palermo,Av. Coronel Díaz 1651,-34.5920736,-58.4126434,75,,,,,"Japonesa Sushi, Internacional",Kokoro-Sushi-15328-ac67c5a1-0423-a053-8eaf-571e7d256df3
+283,Plaza del Carmen,Av. Raul Scalabrini Ortiz 2494,-34.585192,-58.416141,,,,,,Porteña,photo_1797_1.jpg-fdcf9daa-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+284,Chez Juanito,José Antonio Cabrera 5083,-34.58951,-58.432944,100,,,,,"Pizza, Porteña",Chez-Juanito-3985-31799fa4-4cd2-6e5f-0a2b-55dc7b030948
+285,CBC,Godoy Cruz 1781,-34.586977,-58.433093,,,,,,Mexicana,photo_6794_1.jpg-fdd47f22-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+286,La Fachada,Aráoz 1283,-34.593666,-58.427378,,,,,,Pizza,photo_6880_1.jpg-fdd4a6a6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+287,Palermo urbano,Honduras 5499,-34.585991,-58.43401,,,,,,"Italiana, De Autor",Restaurante.jpg
+288,Nuevo Amenábar,Dorrego Av. 2200,-34.577605,-58.438782,,,,,,De Autor,photo_9924_1.jpg-fdd569f1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+289,Lo de bebe,Charcas 3826,-34.5874001,-58.4181672,,,,,,Parrilla,photo_1928_1.jpg-fdcfc472-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+290,Cervelar,Elcano Av. 3385,-34.5748951,-58.4598519,75,,,,,Variada,Restaurante.jpg
+291,Velvet,Jerónimo Salguero 1807,-34.589104,-58.415634,50,,,,,Casera,photo_7644_1.jpg-fdd4f486-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+292,Epa la Arepa,Soler 5837,-34.5789555,-58.4349741,75,,,,,Colombiana,8164ca2fe04767628ac1c6813e8a0867_Epa-la-Arepa-13684.png
+293,Peugeot Lounge,Honduras 5624,-34.5839911,-58.4365373,75,,,,,De Autor,Peugeot-Lounge-14584-71bea9cb-da5f-4d4b-8ac6-1f0dceda2510
+294,Dain usina cultural,Nicaragua 4899,-34.585975,-58.427971,75,,,,,"Parrilla, Casera",photo_10180_1.jpg-fdd59099-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+295,Dubliners irish pub,Humboldt 2000,-34.582314691217,-58.432528331631,50,,,,,Porteña,photo_877_1.jpg-fdce8b67-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+296,Donkeys & Friends,Thames 1889,-34.5860752,-58.428109,75,,,,,"Mexicana, Norteamericana",Donkeys---Friends-15080-44579a56-c8d6-4cfd-92f9-e0d6c801d1db
+297,Las Horas,Paraguay 4601,-34.5839075,-58.4251587,100,,,,,Parrilla,Las-Horas-15082-832205dc-e54a-fd51-d7f8-56ce2b85b769
+298,Nebula,Serrano 1160,-34.591658790738,-58.434836458179,,,,,,"De Autor, Porteña",photo_2220_1.jpg-fdd03a82-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+299,Siga la vaca express,"Av. Alvarez Thomas 6 ",-34.58316,-58.444529,75,,,,,Parrilla,photo_7502_1.jpg-fdd4cd2e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+300,Peru deli,Antonio Beruti 4602,-34.577674,-58.42435,,,,,,Peruana,photo_8036_1.jpg-fdd51baa-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+301,La esquina de las flores,Gurruchaga 1630,-34.589060674849,-58.428895381657,,,,,,Natural,photo_1426_1.jpg-fdcf287f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+302,Lo de Carlitos - El sabor original,Charcas 3702,-34.5881822,-58.4170741,75,,,,,Casera,Restaurante.jpg
+303,Marita,Sanchez de Bustamante 2498,-34.5844953,-58.4027996,100,,,,,De Autor,Restaurante.jpg
+304,Wherever bar,Fray Justo Santamaría de Oro 2476,-34.579599,-58.424607,75,,,,,Porteña,Wherever-Bar-6319-d7fddad6-56de-c9ff-7b52-5728ae2d05c6
+305,Wayback Burgers,Armenia 1231,-34.592602,-58.4320504,75,,,,,Norteamericana,Wayback-Burgers-15754-b61a05b7-4eb2-dd4d-48b4-571125cef574
+306,El galeón,Av. Santa Fé 4002,-34.582251228289,-58.420029954339,50,,,,,Pizza,El-Galeon-2352-413f83bc-b31b-c1be-95e7-56d056a011b7
+307,Rincón parrillero,Av. Medrano 1293,-34.594138904383,-58.419553224476,75,,,,,Parrilla,photo_3066_1.jpg-fdd1c099-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+308,A Manger,Charcas 4001,-34.586012830338,-58.419856116774,75,,,,,"Mediterránea, Española, Francesa",photo_2750_1.jpg-fdd0fd29-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+309,Post street bar,Thames 1885,-34.586004739913,-58.42814195356,50,,,,,Variada,photo_2655_1.jpg-fdd0d675-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+310,Bellagamba,Armenia 1242,-34.5925304,-58.4319734,50,,,,,Porteña,Restaurante.jpg
+311,Bakano,Jerónimo Salguero 1388,-34.594186904572,-58.418292268652,50,,,,,"Pizza, Mediterránea",photo_1843_1.jpg-fdcfc3f2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+312,The Roxy Bar,Gorriti 5568,-34.5852239,-58.4368719,,,,,,Norteamericana,Restaurante.jpg
+313,Crystal,El Salvador 5100,-34.586656324058,-58.431042739888,,,,,,De Autor,photo_3519_1.jpg-fdd2aa1d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+314,Nucha,Nicaragua 6055,-34.5779878,-58.4382053,75,,,,,"Deli, De Autor",photo_14046_1.jpg-fdd6c8b5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+315,La Bandurria,Nicaragua 6078,-34.5778199,-58.4384937,100,,,,,"Pizza, Parrilla",La-Bandurria-14384-d8c12e66-9ee1-45b9-b9a4-5397e9d1cfac
+316,The película,Charcas 3667,-34.588486,-58.416629,75,,,,,"Parrilla, Casera",ThePelicula-8456-9cdf9487-cb3f-5cf9-e23e-56f03639072c
+317,Juana de Oro,Fray Justo Santamaria de Oro 2899,-34.5750176,-58.4205534,50,,,,,De Autor,photo_6407_1.jpg-fdd43224-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+318,El estuario,Rafael Obligado Av. 6710,-34.560059,-58.408428,,,,,,Parrilla,photo_6693_1.jpg-fdd45888-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+319,Pekín bar de pizzas,Honduras 5303,-34.586798,-58.432923,,,,,,Pizza,photo_6836_1.jpg-fdd4a65e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+320,La Carnicería,Thames 2317,-34.5828938,-58.4238152,75,,,,,Parrilla,Restaurante.jpg
+321,El Quetzal Casa Cultural,Guatemala 4516,-34.5877021,-58.4227207,50,,,,,De Autor,el-quetzal-casa-cultural-c0mq5-604179c5-f962-4f53-a7dc-fbbb159c5abe
+322,Hola! sinior shawarma,Honduras 5328,-34.586632,-58.433197,25,,,,,Arabe,photo_10066_1.jpg-fdd5904d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+323,Tazz entertainment bar,Serrano 1556,-34.588932222135,-58.430616972202,100,,,,,"Porteña, Pizza",photo_575_1.jpg-fdce3e0b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+324,Los octubres,Thames 1788,-34.5868093,-58.429267,100,,,,,Porteña,Los-octubres-13430-265df73a-34eb-4cfc-8122-76674b90441d
+325,Ocho Once (a puertas cerradas),"El Salvador y Ravignani ",-34.580969325759,-58.438244128897,100,,,,,"De Autor, Natural",Ocho-Once-12598-e10e6220-3b85-fb01-51b7-56e9b3e59966
+326,La más bonita,Nicaragua 4610,-34.588095,-58.42539,,,,,,Parrilla,photo_10636_1.jpg-fdd5b855-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+327,Barcelona,"Av. Córdoba ",-34.590271,-58.43624,50,,,,,Pizza,photo_2443_1.jpg-fdd0ae5a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+328,Eterna cadencia,Honduras 5574,-34.58419350224,-58.436112596943,,,,,,"De Autor, Casera",photo_2712_1.jpg-fdd0d6e1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+329,El tiki,Av. Cnel. Niceto Vega 5507,-34.587368,-58.438424,,,,,,Variada,photo_7238_1.jpg-fdd4a790-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+330,Tiendas Naturales,República Árabe Siria 3001,-34.5807978,-58.4135643,50,,,,,"Natural, Casera, Deli",Tiendas-Naturales-14924-d6aef021-27b9-81bf-60e9-56e334510c4b
+331,Romario,Güemes 3602,-34.5888,-58.413595,,,,,,Pizza,photo_1086_1.jpg-fdceb2ff-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+332,Il Ballo del Mattone,Gorriti 5950,-34.5820915,-58.4409285,100,,,,,Italiana,Restaurante.jpg
+333,Carlitos LNG,Uriarte 1890,-34.585305886461,-58.428940179775,100,,,,,Casera,photo_2207_1.jpg-fdd03a66-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+334,Utopía,Serrano 1590,-34.5889499,-58.4305689,,,,,,Autóctona,photo_2024_1.jpg-fdcfeb0a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+335,Restaurante (Club atlético de Palermo),Fitz Roy 2238,-34.5800172,-58.4315975,75,,,,,Variada,Restaurante.jpg
+336,Il Gatto,Antonio Beruti 3391,-34.5866243,-58.4104536,100,,,,,"Italiana, Mediterránea",photo_11920_1.jpg-fdd62d65-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+337,Klimt,José Antonio Cabrera 4799,-34.5913811,-58.4302592,50,,,,,De Autor,Restaurante.jpg
+338,Viva victoria tienda de delicias,República Árabe Siria 2982,-34.580984,-58.413563,,,,,,Deli,photo_4196_1.jpg-fdd40a8a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+339,Cafe nostalgia,Av. Coronel Diaz 1401,-34.594023,-58.414386,75,,,,,Internacional,photo_5076_1.jpg-fdd40ad3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+340,La editorial bistró,Honduras 5582,-34.5842939,-58.4361091,,,,,,"Autóctona, Latinoamericana",photo_12008_1.jpg-fdd62da1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+341,Thelonious club,Jerónimo Salguero 1884,-34.588224230742,-58.414707729146,,,,,,Porteña,photo_1870_1.jpg-fdcfc40e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+342,The Temple Bar,Costa Rica 4677,-34.5881804,-58.4269686,75,,,,,variada,Restaurante.jpg
+343,Moremore,El Salvador 5721,-34.5823297,-58.4366042,,,,,,Deli,photo_11258_1.jpg-fdd60561-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+344,La Alacena,Gascón 1401,-34.5940741,-58.4228467,75,,,,,"Italiana, De Autor, Porteña",Restaurante.jpg
+345,La brunilda,República Dominicana 3382,-34.590984,-58.413578,75,,,,,Parrilla,Restaurante.jpg
+346,Dulce Charlotte,Costa Rica 5610,-34.5826392,-58.4347262,75,,,,,De Autor,Dulce-Charlotte-15432-b2bb1a47-5d72-2f60-f3ea-573f6f15c6af
+347,Güimpi,Salguero 1712,-34.590131964638,-58.41685822371,50,,,,,Pizza,photo_2219_1.jpg-fdd03a7e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+348,El Wok,Soler 3573,-34.594132482733,-58.414147417847,,,,,,China,photo_2335_1.jpg-fdd0879e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+349,Bakano,Av. Cerviño 3496,-34.580441,-58.408449,,,,,,"Mediterránea, Pizza",photo_5309_1.jpg-fdd4312f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+350,M Palermo,El Salvador 5783,-34.5818238,-58.4371981,100,,,,,"Japonesa Sushi, Peruana, Mediterránea",Restaurante.jpg
+351,Jerome BrewPub,Malabia 1401,-34.592182,-58.429142,75,,,,,Variada,Restaurante.jpg
+352,Miloca bar & terrazas,Av. Cnel. Niceto Vega 5189,-34.589629,-58.435057,,,,,,Pizza,photo_1313_1.jpg-fdcf27d7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+353,Tea Connection,"Migueletes 996 ",-34.5652264,-58.4362451,100,,,,,Natural,c305a250710e95cf6bad18c18a1c02f4_Tea-Connection-12308.jpg
+354,Coco Café,Cabello 3794,-34.5800329,-58.4130105,25,,,,,"Francesa, Casera",Restaurante.jpg
+355,Romario,Cabello 3700,-34.580295231076,-58.411804825272,,,,,,Pizza,photo_1084_1.jpg-fdceb2f7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+356,La amistad,Juncal 4500,-34.577268174123,-58.422559256667,100,,,,,Parrilla,photo_1204_1.jpg-fdcf010b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+357,Esperanto,Av. Juan B. Justo 1625,-34.5862441,-58.4359542,,,,,,Porteña,photo_273_1.jpg-fdcdc7e7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+358,El buen gourmet,Charcas 4063,-34.585514504506,-58.420526820008,,,,,,"Parrilla, Italiana, Casera",photo_2902_1.jpg-fdd17275-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+359,Próspero Velazco,Arévalo 1947,-34.5790745,-58.4382457,,,,,,Deli,Restaurante.jpg
+360,Taberna Odin,Honduras 5090,-34.5881623,-58.4310956,75,,,,,Casera,photo_11398_1.jpg-fdd60591-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+361,Festival,Gorriti 5741,-34.583796,-58.438672,25,,,,,Variada,Restaurante.jpg
+362,Café vinilo,Gorriti 3780,-34.595488,-58.418144,,,,,,De Autor,photo_6342_1.jpg-fdd431d0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+363,Baum,Honduras 5720,-34.5832263,-58.4375369,100,,,,,Variada,Baum-15678-8876a15d-da69-5459-3aec-56d058d8baf2
+364,Portubien,Paunero 2751,-34.581859970941,-58.408902221116,,,,,,"Natural, Vegetariana",photo_2136_1.jpg-fdd039d6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+365,Dulcinea,Av. Santa Fé 4130,-34.581688,-58.421027,75,,,,,"Pizza, Porteña, Uruguaya",Dulcinea-10016-c6b15f5a-1a2e-a643-53e6-56d0456e4c6e
+366,Chalmers green bar,Av. Cnel. Niceto Vega 5248,-34.589271,-58.435656,,,,,,"Francesa, Mediterránea",photo_3926_1.jpg-fdd2f88c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+367,Asian,Av. Córdoba 5300,-34.5896777,-58.4371383,,,,,,Sudeste Asiático,photo_4114_1.jpg-fdd40a62-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+368,Sensu (Alto Palermo),Arenales 3340,-34.589093,-58.410068,100,,,,,Japonesa Sushi,Sensu-Alto-Palermo-3014-1367a214-3f40-41f3-bbfe-996f71c0a965
+369,Tonno soho,Charcas 4400,-34.583059,-58.424022,,,,,,"Italiana, Pizza",photo_5249_1.jpg-fdd43123-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+370,Mainroom,Bonpland 1621,-34.583883854782,-58.438028763544,,,,,,Mediterránea,photo_3847_1.jpg-fdd2d1d4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+371,Dumont petit bistro,Dr. Emilio Ravignani 1596,-34.582618,-58.440402,,,,,,"Japonesa Sushi, Autóctona",photo_3848_1.jpg-fdd2d1d8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+372,Sabihondos y suicidas,Adolfo P. Carranza 2225,-34.6033257,-58.4759588,,,,,,Porteña,photo_7021_1.jpg-fdd4a719-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+373,Vega,Armenia 1378,-34.59147906167,-58.43049007601,,,,,,Variada,photo_2868_1.jpg-fdd17249-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+374,La perinola,José Antonio Cabrera 4301,-34.5948533,-58.4253508,100,,,,,"Parrilla, Casera",photo_12288_1.jpg-fdd653f5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+375,The Burger Company,Honduras 4733,-34.590484,-58.4274571,50,,,,,Norteamericana,the-burger-company-03yqz-c6561d38-e180-e65f-1f05-56f2d6bd8d8c
+376,Ink Buenos Aires,Av. Cnel. Niceto Vega 5635,-34.586090362478,-58.439409779099,,,,,,Internacional,Restaurante.jpg
+377,El pingüino de Palermo,Jorge Luis Borges 2195,-34.5847054,-58.4242759,75,,,,,"Casera, De Autor",photo_2090_1.jpg-fdcfeb72-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+378,El fogón,Juncal 4602,-34.576697763518,-58.423510929067,,,,,,Parrilla,photo_2702_1.jpg-fdd0d6c9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+379,El timón de don Jesús,Av. Dorrego 1699,-34.581796,-58.443427,,,,,,Casera,Restaurante.jpg
+380,La sartén por el mango,Gascón 1417,-34.593863,-58.422814,,,,,,Porteña,photo_6492_1.jpg-fdd4329c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+381,Bellagamba,Francisco Acuña de Figueroa 1291,-34.596541,-58.421531,50,,,,,Porteña,Restaurante.jpg
+382,Green & Co. (Paseo Alcorta),"Jerónimo Salguero ",-34.576511,-58.404927,,,,,,"Natural, Vegetariana",Restaurante.jpg
+383,La Stampa,Jéronimo Salguero 2741,-34.5800641,-58.4081035,75,,,,,Italiana,Restaurante.jpg
+384,Benaim,Gorriti 4015,-34.595341,-58.4215694,75,,,,,Judía,benaim-lt48w-119435bb-d8db-467c-af53-0d9d1290ba8f
+385,El peruanito ray,Fitz Roy 2299,-34.579493,-58.430928,75,,,,,Peruana,El-peruanito-Ray-10254-ebc1b806-ba36-122b-bd16-56d0545a2f79
+386,Mix,Uriarte 1943,-34.585022,-58.428397,,,,,,"Italiana, Española",photo_10360_1.jpg-fdd5b7f1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+387,Devenir,Serrano 1327,-34.590534395945,-58.433071864406,,,,,,Brasilera,Restaurante.jpg
+388,Alivio restó (bar de tapas),Gorriti 3600,-34.595507252477,-58.415017108068,,,,,,Española,photo_2897_1.jpg-fdd17271-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+389,Simplemente Oro y Soler,Soler 5101,-34.583927789449,-58.428590307816,100,,,,,"Autóctona, Pizza, Parrilla",simplemente-oro-y-soler-dxqjc-fdcfc42e-f4e4-11e4-be7b-d3500e263ce1
+390,La parrilla de Honduras,Honduras 4308,-34.593457,-58.423638,,,,,,Parrilla,photo_6491_1.jpg-fdd43298-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+391,Nucha,Av. Cerviño 4403,-34.5762735,-58.4200952,75,,,,,"Deli, Casera, De Autor",photo_6845_1.jpg-fdd4a67a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+392,Don Saverio,Av. Scalabrini Ortiz 1538,-34.591264,-58.425551,,,,,,Porteña,Restaurante.jpg
+393,Brioche Dorée (Shopping Alto Palermo),Arenales 3360,-34.5876715,-58.4103947,50,,,,,"Francesa, Porteña",Restaurante.jpg
+394,Colombia mía restobar,Honduras 5719,-34.5832049,-58.4375108,100,,,,,"Colombiana, Internacional",Restaurante.jpg
+395,La Bohème Creperie & Bar,Gorriti 5796,-34.5834044,-58.4392434,,,,,,Francesa,photo_14514_1.jpg-fdd71709-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+396,Espacio dadá,Jorge Luis Borges 1655,-34.5884853,-58.4297979,100,,,,,Casera,Restaurante.jpg
+397,Londra bar,Bonpland 1690,-34.583456,-58.4374357,,,,,,De Autor,photo_12694_1.jpg-fdd65459-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+398,Obi bar noodles bar,Av. Santa Fe 5259,-34.5758581,-58.4334119,,,,,,"De Autor, Japonesa Sushi, Natural",Obi-bar-Noodles-bar-10362-8f9a126a-8e2e-d4c6-da29-56d04b4b4528
+399,Real Revolucion,Honduras 5143,-34.5878226,-58.4315472,,,,,,Mexicana,photo_14882_1.jpg-fdd717dc-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+400,Per Se Restaurant,Honduras 5815,-34.5824061,-58.4384908,,,,,,De Autor,photo_14920_1.jpg-fdd73e00-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+401,Monzú,José Antonio Cabrera 3975,-34.5963369,-58.4227457,75,,,,,"De Autor, Pizza, Italiana",Restaurante.jpg
+402,Alcornoque,Av. Cnel. Niceto Vega 5519,-34.587274,-58.438566,,,,,,"Parrilla, Italiana, Porteña",Restaurante.jpg
+403,Mi Barrio Hamburguesería,Uriarte 1504,-34.5880873,-58.4330906,50,,,,,Norteamericana,a754b5d98810f3e1dbd54c6870cc11bd_mi-barrio-hamburgueseria-axvnv.jpg
+404,Full City Coffe House,Thames 1535,-34.5884849,-58.4317356,25,,,,,Variada,Full-City-Coffe-House-14576-d75327b9-d5d4-4392-9af6-164b799533a6
+405,La Fábrica del Taco,"Báez 246 ",-34.5723929,-58.4305929,100,,,,,Mexicana,Restaurante.jpg
+406,Treffen Beer Bar Museum,Piedras 178,-34.6102832,-58.3777271,50,,,,,Variada,Restaurante.jpg
+407,Jasper,Córdoba Av. 5981,-34.584827,-58.4443705,,,,,,Variada,Restaurante.jpg
+408,Domani ristoranti & bar,Jerónimo Salguero 3000,-34.577807,-58.406057,100,,,,,"Italiana, Pizza",Restaurante.jpg
+409,Tatu,Soldado de la Independencia 1023,-34.565862,-58.437342,,,,,,"Porteña, Pizza",photo_6609_1.jpg-fdd45810-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+410,Sensu (Paseo Alcorta loc. 3027),Jerónimo Salguero 3172,-34.57684,-58.405233,50,,,,,Japonesa Sushi,Sensu-Paseo-Alcorta-loc-3027-2798-6bbbea3f-f233-4ad8-9925-d23f5b3d57aa
+411,Café sivori resto bar,"Av. Infanta Isabel 555 ",-34.569649,-58.41711,,,,,,Casera,photo_6323_1.jpg-fdd431b8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+412,Pampa linda,Paraguay 3521,-34.5922513,-58.4145251,100,,,,,"Italiana, Española",Restaurante.jpg
+413,Sin Embargo,Gorriti 5675,-34.5843107,-58.4379884,,,,,,Parrilla,Restaurante.jpg
+414,En el nombre del postre,Soler 5547,-34.5812663,-58.4320731,50,,,,,De Autor,photo_12334_1.jpg-fdd653fd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+415,Fuensanta,Charcas 3301,-34.591661,-58.412326,75,,,,,Pizza,Fuensanta-8318-85a7e378-f1e3-00af-3fd8-56d73aa41d2d
+416,Palermo jojo,Uriarte 1386,-34.5888277,-58.4341551,,,,,,"Porteña, Casera",photo_12768_1.jpg-fdd67a81-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+417,Kentucky,Costa Rica 5595,-34.5826984,-58.4346374,100,,,,,Pizza,Restaurante.jpg
+418,Fiume,Humboldt 2006,-34.5823972,-58.4325334,,,,,,"Variada, Parrilla",Restaurante.jpg
+419,Liquid bar,Av. Santa Fé 3651,-34.585431,-58.415458,75,,,,,"Autóctona, Norteamericana",photo_10090_1.jpg-fdd59059-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+420,Snatch bar,Humboldt 1654,-34.585347,-58.43593,75,,,,,Variada,snatch-bar-sf3dh-bf545f85-5178-4d6c-ad44-564347db65ec
+421,La vestalia grill & resto,Thames 1392,-34.589456,-58.433176,,,,,,"Parrilla, Mediterránea",photo_4750_1.jpg-fdd40aba-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+422,Fring Burgers & Fries,Nicaragua 4535,-34.5885875,-58.4245567,75,,,,,Norteamericana,fring-burgers-fries-bn9s4-f2eefbb7-11bf-8e30-97ad-5627f47f81dd
+423,Tarantino resto,Godoy Cruz 2851,-34.577225,-58.423921,,,,,,"Italiana, Pizza",Restaurante.jpg
+424,Makena Cantina Club,Fitz Roy 1519,-34.585490430031,-58.437912812857,,,,,,Porteña,photo_2816_1.jpg-fdd14ae1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+425,Muchacho,El Salvador 5100,-34.5867491,-58.4310557,,,,,,Porteña,Restaurante.jpg
+426,Gerónimo bar,Honduras 3902,-34.5941221,-58.4183685,25,,,,,"Pizza, Casera",Restaurante.jpg
+427,Michi,Malabia 2495,-34.584543848398,-58.417278528214,100,,,,,Pizza,Restaurante.jpg
+428,Tufic Espacio de Sabores,Guatemala 4597,-34.587023,-58.423555,50,,,,,Variada,photo_8910_1.jpg-fdd5429d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+429,Matu's,Av. Salvador Maria del Carril 2900,-34.5906985,-58.4981555,50,,,,,Variada,Restaurante.jpg
+430,Adorado Bar,Nicaragua 5856,-34.5796419,-58.4360964,100,,,,,Casera,photo_14978_1.jpg-fdd80188-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+431,Rosebar,Honduras 5445,-34.5855463,-58.434506,,,,,,Variada,Restaurante.jpg
+432,Mooi,Costa Rica 5468,-34.5836068,-58.433473,75,,,,,De Autor,mooi-hz71t-7b6be74c-8e04-1eeb-b3a7-56a13c067930
+433,Beijing restaurante,El Salvador 5702,-34.5825143,-58.4364394,100,,,,,China,Restaurante.jpg
+434,Ser y Tiempo,Gorriti 5910,-34.5824997,-58.4404229,75,,,,,De Autor,Restaurante.jpg
+435,Romario,Honduras 5670,-34.583632,-58.437022,100,,,,,Pizza,Romario-10072-aa890932-1b48-849b-b369-56cca8e2f8a0
+436,Guebara,Humberto primo 463,-34.6243719,-58.4511012,,,,,,Variada,Restaurante.jpg
+437,The shamrock,Rodríguez Peña 1220,-34.594645930929,-58.392045242738,,,,,,Variada,Restaurante.jpg
+438,Chupitos bar,Gorriti 5033,-34.5891996,-58.4315232,75,,,,,Variada,Restaurante.jpg
+439,Ferona club social,Humboldt 1445,-34.586997,-58.437788,100,,,,,Variada,Restaurante.jpg
+440,Pani,El Salvador 4827,-34.5884844,-58.4284766,75,,,,,Casera,pani-rx8f9-98c933de-6697-118b-1b85-564c8aee54f1
+441,Antares,Arévalo 2876,-34.5722528,-58.4313496,75,,,,,Variada,Restaurante.jpg
+442,Terrenal,Scalabrini Ortiz 1298,-34.5929714,-58.428089,,,,,,Colombiana,photo_2638_1.jpg-fdd0d655-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+443,Florentina,Soler 4501,-34.588329,-58.423271,,,,,,"Italiana, Porteña, Francesa",photo_4001_1.jpg-fdd3e28a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+444,La Popular del Soho,Guatemala 4701,-34.5863052,-58.4244947,100,,,,,"Parrilla, Pizza",La-Popular-del-Soho-15746-e90d11d3-d6cf-53b8-f7fa-56c7347dddd3
+445,Vita Palermo,Costa Rica 4522,-34.5893529,-58.4253414,50,,,,,"Casera, Deli, Natural",Restaurante.jpg
+446,Marcelo Dolce,Av. Figueroa Alcorta (MALBA) 3415,-34.5772727,-58.4037466,100,,,,,"Mediterránea, Italiana",marcelo-dolce-m021o-1ab89eb8-9650-7bc1-951c-55ba8c594223
+447,Confiteria San Martin,Av. Santa Fé 3402,-34.587038,-58.4131676,50,,,,,"Internacional, Pizza",photo_13526_1.jpg-fdd6a21d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+448,Lyon,Gorriti 5612,-34.584846,-58.437322,,,,,,"Pizza, Porteña",Lyon-10374-a89c092f-5fa5-6345-122d-56d04be3db0c
+449,Los maestros,Jerónimo Salguero 2671,-34.580539589302,-58.408683349568,,,,,,Pizza,photo_2523_1.jpg-fdd0aec1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+450,Libros del pasaje,Thames 1762,-34.586965,-58.429486,50,,,,,"Norteamericana, Casera",photo_7339_1.jpg-fdd4cce8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+451,Brujas,Jorge Luis Borges 1640,-34.588315,-58.429552,,,,,,Pizza,photo_745_1.jpg-fdce64bb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+452,Amaya fun resto & lounge,Guemes 3634,-34.5886,-58.413924,,,,,,"Mediterránea, Japonesa Sushi",Restaurante.jpg
+453,Trento,Cabrera 4845,-34.591037,-58.430716,,,,,,Variada,photo_6790_1.jpg-fdd47f18-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+454,Yan kie,Paraguay 5110,-34.580105,-58.430111,,,,,,China,Restaurante.jpg
+455,La Esquina,Gorriti 5608,-34.5848601,-58.4373035,75,,,,,Norteamericana,5dfcef2577c4e8a9f10e0d3eb952d50b_la-esquina-rwhox.jpg
+456,La Bumon,Francisco Acuña de Figueroa 1800,-34.5900999,-58.4202487,75,,,,,Variada,la-bumon-Sq7ie-82871642-ea8b-4410-81f3-196b9393db6c
+457,Ara cocina al disco,Gorriti 5615,-34.584802,-58.4373523,,,,,,"Mediterránea, Porteña",Restaurante.jpg
+458,Lo de Lola,El Salvador 4949,-34.586684003156,-58.431077604614,,,,,,Española,photo_1402_1.jpg-fdcf284f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+459,Alimentos para vivir mejor,Nicaragua 4914,-34.585902,-58.428116,,,,,,Natural,photo_10932_1.jpg-fdd5df09-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+460,Damiana,Av. Córdoba 5099,-34.590811,-58.435286,,,,,,Parrilla,Damiana-10256-92ba01d6-193d-55e7-ee01-56d04b1e492e
+461,Los cardones,Jorge Luis Borges 2180,-34.584832,-58.424483,,,,,,Porteña,Restaurante.jpg
+462,Oporto,Av. Raúl Scalabrini Ortiz 2101,-34.587857,-58.420181,50,,,,,"Mediterránea, Pizza",photo_6677_1.jpg-fdd45854-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+463,Cante prí bar de chicos,Charcas 5216,-34.5771,-58.431828,,,,,,Casera,Restaurante.jpg
+464,Siciliano,Juan Francisco Segui 4668,-34.573282,-58.421952,,,,,,"Italiana, Parrilla",photo_5251_1.jpg-fdd4312b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+465,Pizza pet,Av. Santa Fé 5288,-34.575726,-58.434187,50,,,,,Pizza,photo_3902_1.jpg-fdd2f854-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+466,Nativo,Fitz Roy 1496,-34.585677785554,-58.438127109057,25,,,,,Norteamericana,photo_2375_1.jpg-fdd087ea-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+467,Smooothway,Soler 6036,-34.5773723,-58.4370453,,,,,,"Natural, Vegetariana",photo_13682_1.jpg-fdd6a26d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+468,Vaivén resto,Gorriti 5615,-34.5847914,-58.4373406,,,,,,De Autor,photo_14248_1.jpg-fdd6f051-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+469,El Benny,Serrano 1327,-34.5906176,-58.4330703,100,,,,,"Cubana, Española, Italiana",Restaurante.jpg
+470,Unaghi sushi,Santos Dumont 3429,-34.58239,-58.44726,,,,,,Japonesa Sushi,photo_10772_1.jpg-fdd5dea5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+471,Panini Porteño,Bulnes 2776,-34.580118,-58.405695,75,,,,,Porteña,Restaurante.jpg
+472,Cosi Mi Piace,El Salvador 4618,-34.5899533,-58.4263485,75,,,,,Pizza,cosi-mi-piace-fvx3c-7ee30d05-dc70-4d6d-9283-114db61ddaf6
+473,Rancho aparte,Jufré 1085,-34.5908876,-58.4373939,,,,,,Casera,Restaurante.jpg
+474,Lattente,Thames 1891,-34.58606,-58.4280859,50,,,,,"Latinoamericana, Vegetariana",Lattente-15270-0a835cfc-ca5f-49dc-8d63-e8a637ccedce
+475,Crêpas,Gurruchaga 1791,-34.5881093,-58.427276,75,,,,,"De Autor, Uruguaya",Crepas-15438-78a8ea3d-6ad5-4497-ac07-aa9ae24f869b
+476,Terra coffee beam,Honduras 5707,-34.58320829237,-58.43737204254,,,,,,Porteña,photo_1616_1.jpg-fdcf75c2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+477,Palermo viejo,Thames 2319,-34.582762092429,-58.423786606736,,,,,,Parrilla,photo_2381_1.jpg-fdd087f2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+478,Dejavu,Paraguay 3701,-34.591052632564,-58.41591564454,,,,,,Italiana,photo_2179_1.jpg-fdd03a3a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+479,Absinth resto bar,"Bartolomé Mitre 1695 ",-34.6078934,-58.3906182,25,,,,,Variada,Restaurante.jpg
+480,De María Castaña,Arenales 3335,-34.587898,-58.410014,,,,,,Pizza,photo_7655_1.jpg-fdd4f48a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+481,El empujón del diablo,Angel Justiniano Carranza 1969,-34.580182342723,-58.435725890787,,,,,,Autóctona,photo_3806_1.jpg-fdd2aa78-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+482,Soho vane,Armenia 1784,-34.588728264302,-58.426328363346,,,,,,Mediterránea,photo_2861_1.jpg-fdd1723d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+483,Al Rawshe,Av. Santa Fe 3870,-34.583842,-58.4179066,75,,,,,"Internacional, Arabe",Restaurante.jpg
+484,Leitmotiv,José Antonio Cabrera 5696,-34.5849929,-58.4391251,100,,,,,Variada,Restaurante.jpg
+485,Levitar,Godoy Cruz 1715,-34.5874299,-58.4337709,,,,,,Pizza,Restaurante.jpg
+486,Karma bar!,Nicaragua 5778,-34.5802504,-58.4352766,,,,,,"Mexicana, Pizza, Porteña",Restaurante.jpg
+487,Café San Bernardo,Corrientes Av. 5434,-34.5978226,-58.4410615,50,,,,,Variada,Restaurante.jpg
+488,Santo & Seña,Humboldt 1729,-34.584627,-58.434975,100,,,,,Variada,santo-sea-Y5t0Y-a197bcba-f0a1-4b15-b8cd-ed4ab95c5532
+489,El horno del norte,Guatemala 5999,-34.577122,-58.436019,75,,,,,"Parrilla, Porteña",Restaurante.jpg
+490,El lomo feroz,Fitz Roy 1666,-34.584415,-58.436616,,,,,,Autóctona,photo_6375_1.jpg-fdd43200-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+491,Faricci,Arenales 3955,-34.594307,-58.398071,,,,,,Casera,photo_5033_1.jpg-fdd40acf-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+492,Decata,Gorriti 4865,-34.5902406,-58.4298652,75,,,,,Variada,photo_14318_1.jpg-fdd6f08d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+493,Piacere,Paraguay 4402,-34.585316429999,-58.423239570075,,,,,,"Pizza, Porteña, Norteamericana",photo_1500_1.jpg-fdcf4f16-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+494,Siddhartha - Restaurant Bar,Gurruchaga 1450,-34.5903213,-58.4307686,,,,,,De Autor,photo_15058_1.jpg-fdd801e8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+495,Oliver´s Club,Guatemala 4462,-34.588137,-58.4221552,,,,,,De Autor,photo_15064_1.jpg-fdd801f0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+496,Caminos,José Antonio Cabrera 4223,-34.5954,-58.424877,,,,,,Pizza,Restaurante.jpg
+497,Ceffyl Casa de Té Galés,Humboldt 2028,-34.5822113,-58.432327,,,,,,Internacional,Restaurante.jpg
+498,Jah bar,Thames 1335,-34.5899291,-58.4338926,100,,,,,Variada,Restaurante.jpg
+499,Tazz (costa salguero),"Av. Rafael Obligado Costanera y Salguero ",-34.570155,-58.39898,,,,,,Variada,Restaurante.jpg
+500,Pekados restaurant & pub,Honduras 5309,-34.586685012596,-58.43295203305,,,,,,"Pizza, Italiana",photo_2871_1.jpg-fdd17251-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+501,Voulez vous café,Malabia 1667,-34.5903539,-58.426363,,,,,,Deli,photo_14206_1.jpg-fdd6c925-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+502,La adorada,Gorriti 5055,-34.5890552,-58.4317407,,,,,,Mexicana,photo_12510_1.jpg-fdd6541d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+503,Secretos,Ugarteche 3154,-34.579837,-58.411575,,,,,,"Parrilla, Pizza",photo_6441_1.jpg-fdd43258-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+504,Paru Deli,Av. Cerviño 3812,-34.5790566,-58.4127835,100,,,,,"Peruana, De Autor, Japonesa Sushi",paru-deli-64ain-ba303e45-eddd-fc80-bc3e-56c3862d524e
+505,Picnic,Cerviño 3596,-34.5799157,-58.4097647,,,,,,Vegetariana,Restaurante.jpg
+506,PuraCepa (Hipódromo de Palermo),Av del Libertador 4241 Ubicado en Tribuna Joven,-34.568492,-58.4282479,,,,,,Norteamericana,photo_15016_1.jpg-fdd801b0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+507,Mi jardín,Cabello 3419,-34.5813075,-58.408819,100,,,,,China,Restaurante.jpg
+508,Maxim restobar,Jorge Luis Borges 1750,-34.5877217,-58.4286417,,,,,,"Pizza, Autóctona",Restaurante.jpg
+509,Marina love,Nicaragua 4533,-34.5886404,-58.424584,,,,,,"De Autor, Parrilla",Restaurante.jpg
+510,Sofzoné Café Gourmet,Serrano 1431,-58.4318665,-34.589848,,,,,,"Casera, Deli",Restaurante.jpg
+511,Tutti fiochi,Gorriti 5900,-34.582577,-58.440318,,,,,,Italiana,Tutti-fiochi-10358-c731065a-b212-01f2-ea25-56d093b857ce
+512,Despacho de Sabores,Bonpland 1617,-34.5840056,-58.4380982,,,,,,Deli,Despacho-de-Sabores-15708-c97b4e64-d80e-ae22-a9f7-56d056f3b298
+513,La casona de Cándido,Av. Dorrego 1717,-34.581567724469,-58.443253462844,,,,,,Parrilla,photo_1617_1.jpg-fdcf75c6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+514,Mc Nor,Juncal 3599,-34.583404194481,-58.413339235123,,,,,,"Norteamericana, Casera",photo_1799_1.jpg-fdcf9dae-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+515,Djembé,Honduras 5019,-34.588438615007,-58.430446666755,,,,,,Casera,photo_2025_1.jpg-fdcfeb0e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+516,Lo de Joaquin Alberdi,Jose Luis Borges 1772,-34.587613,-58.428406,,,,,,Internacional,photo_2749_1.jpg-fdd0fd25-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+517,BlueDog,Gorriti 4758,-34.591175,-58.42853,75,,,,,Variada,bluedog-9up1m-a6500213-5c6b-6038-e321-56c381f89c24
+518,Bless,Bonpland 1515,-34.584865,-58.439061,,,,,,"Norteamericana, Pizza, Porteña",Restaurante.jpg
+519,The pick market,Ugarteche 3154,-34.5799455,-58.4115778,50,,,,,Internacional,Restaurante.jpg
+520,Les macarons de París,Juan Francisco Seguí 3545,-34.57927,-58.4083977,,,,,,Francesa,photo_11698_1.jpg-fdd62d11-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+521,Vicente el absurdo,Julián Alvarez 1866,-34.590344,-58.420635,,,,,,Casera,photo_9978_1.jpg-fdd56a11-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+522,Farang,Av Cerviño 3812,-34.5788648,-58.4132175,,,,,,"Japonesa Sushi, Pescados Y Mariscos",Restaurante.jpg
+523,Taberna Odin,Av. San Martín 6080,-34.5951962,-58.5015889,25,,,,,Variada,Taberna-Odin-11802-0c8251eb-8208-4413-8823-f34831cb15a3
+524,Dadá resto bar,Jorge Luis Borges 1655,-34.588487,-58.429775,75,,,,,"Mediterránea, Pizza, Porteña",photo_9068_1.jpg-fdd542bd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+525,Diggs,Serrano 1580,-34.5889351,-58.4304865,75,,,,,Norteamericana,diggs-ftw2u-170ffcfe-c1ef-1efb-a898-56f04471465b
+526,Quinta Estacion,Jorge Luis Borges 2055,-34.5857985,-58.4256659,75,,,,,Deli,Quinta-Estacion-15318-21536308-b6ed-199d-c0be-56f1aacfa771
+527,La Raya,Ayacucho 2183,-34.5860877,-58.3876733,100,,,,,Parrilla,la-raya-oaG32-dccfbb45-dede-498e-a735-b2bb8a3e1407
+528,Jerome BrewPub Palermo,Malabia 1401,-34.5921825,-58.4291418,75,,,,,Variada,jerome-brewpub-palermo-e4wrz-6253cbe0-214a-2450-6853-56f047c0dfdc
+529,El supremo,Honduras 5535,-34.584534869011,-58.435675924852,,,,,,Mediterránea,photo_1644_1.jpg-fdcf75d6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+530,La Carbonera,El Salvador 4401,-34.5914711,-58.4241655,50,,,,,"De Autor, Parrilla, Venezolana",Restaurante.jpg
+531,Desoho,Malabia 1708,-34.5900857,-58.4259887,,,,,,De Autor,photo_1897_1.jpg-fdcfc436-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+532,Es Caprichoso el Azar,Bonpland 1577,-34.5843205,-58.4384631,,,,,,Mediterránea,Restaurante.jpg
+533,Pain et Vin,Gorriti 5132,-34.5885783,-58.4324909,75,,,,,Variada,Restaurante.jpg
+534,Casa Oro (a puertas cerradas),"Fray Justo Santamaría de Oro y Charcas ",-34.581403966017,-58.426214664557,100,,,,,"Peruana, Internacional",Casa-Oro--a-puertas-cerradas--14830-efe33aba-f1a7-4458-ba2b-d1b4db1c40b9
+535,Punto Letra,Godoy Cruz 1554,-34.5884654,-58.4355015,,,,,,Deli,photo_15026_1.jpg-fdd801c0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+536,Almacén Ruda Macho,Angel Justiniano Carranza 1591,-34.5840771,-58.4401212,,,,,,Casera,Restaurante.jpg
+537,Caffe del doge,Av. Cerviño 3299,-34.5811629,-58.4062471,75,,,,,Deli,Restaurante.jpg
+538,Halina café,Araoz 2806,-34.5840225,-58.4125102,50,,,,,Porteña,Restaurante.jpg
+539,Le Noir,Fitz Roy 1715,-34.5840505,-58.4361378,,,,,,De Autor,Restaurante.jpg
+540,Muma´s cupcakes,Malabia 1680,-34.5902565,-58.4262651,,,,,,"Norteamericana, Deli",Mumas-Cupcakes-11220-a0efe164-b15e-18ee-f2f5-56d049336d39
+541,Puro bistró,Thames 1920,-34.5858482,-58.4278165,,,,,,De Autor,photo_11756_1.jpg-fdd62d1d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+542,Sera de dios,México 355,-34.6147745,-58.3712915,75,,,,,Variada,Restaurante.jpg
+543,Pacífico bar,Honduras 5509,-34.584841,-58.435465,,,,,,"Casera, Porteña",photo_3948_1.jpg-fdd31fcc-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+544,Restaurante central de la rural,Av. Sarmiento 2704,-34.58086,-58.420481,,,,,,Internacional,Restaurante.jpg
+545,La Diosa,Rafael Obligado Av. 3731,-34.559357,-58.409157,,,,,,Internacional,Restaurante.jpg
+546,Odyssey,Aráoz 2148,-34.588162000308,-58.419058152148,,,,,,Española,photo_2282_1.jpg-fdd06102-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+547,Bartola Classic,Gurruchaga 1806,-34.587997,-58.4271688,50,,,,,Variada,bartola-classic-fhm50-d3d0031a-0c2d-2540-4580-56eac58615cc
+548,El anden,Avenida Santa Fe 5302,-34.575225,-58.4346911,,,,,,Porteña,Restaurante.jpg
+549,Tomato,Av. Scalabrini Ortiz 1171,-34.590713,-58.424643,,,,,,Pizza,photo_6596_1.jpg-fdd45804-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+550,Biscottini patisserie bar,Aráoz 2701,-34.584653,-58.413413,,,,,,"Vegetariana, Casera",photo_7024_1.jpg-fdd4a71c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+551,Tomasso,Aráoz 2342,-34.587191,-58.417422,,,,,,Pizza,photo_7072_1.jpg-fdd4a73c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+552,Chez creperie,Honduras 5044,-34.5884097,-58.4306781,,,,,,Francesa,Restaurante.jpg
+553,Coliseo sports & fun,Fitz Roy 2021,-34.58151,-58.4332,,,,,,"Norteamericana, Pizza",Restaurante.jpg
+554,Santa Crepa,Av. del Libertador 3883,-34.5712634,-58.4226042,50,,,,,"Natural, Francesa, Deli",santa-crepa-u42h7-ed793c51-1b2f-45a5-b169-631f087d9636
+555,Shout Brasas & Drinks,Maipú 981,-34.593063,-58.370136,100,,,,,Variada,Restaurante.jpg
+556,Absenta lounge,"Báez 372 ",-34.571626,-58.431921,,,,,,"Peruana, Japonesa Sushi",photo_9800_1.jpg-fdd569ad-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+557,Café Cortázar,Cabrera 3797,-34.686104,-58.5537268,75,,,,,Variada,cafe-cortazar-dayi3-9b5f14ae-12dd-37da-6188-56eac743065f
+558,10mil y pico café lounge & bar,José Antonio Cabrera 4799,-34.59138,-58.430258,,,,,,"Mediterránea, Española",photo_6389_1.jpg-fdd43210-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+559,OHANA Bar & Lounge,Av. Cnel. Niceto Vega 5737,-34.5857351,-58.4407031,25,,,,,Variada,ohana-bar-lounge-8kmne-f39e7139-3779-497f-8be2-ce7ca9ffa82d
+560,Palermo viejo,Honduras 3999,-34.5940478343,-58.419525412702,,,,,,Porteña,photo_1071_1.jpg-fdceb2db-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+561,Kentucky,Av Santa Fé 4600,-34.578681,-58.4252506,50,,,,,Pizza,Restaurante.jpg
+562,Down Town Matías,Uriarte 1657,-34.5871008,-58.4315091,,,,,,"Irlandesa, Internacional",DownTownMatias-Palermo.JPG
+563,Io Sono Shokuhin (a puertas cerradas),Gorriti 3800,-34.5954938,-58.41849,,,,,,"Italiana, Internacional",photo_14862_1.jpg-fdd717cc-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+564,Altura Crucero,Angel Justiciano Carranza 1601,-34.5833572,-58.4392587,,,,,,Italiana,Restaurante.jpg
+565,Lalo´s bar,Cabrera 4667,-34.5924321,-58.4287981,,,,,,De Autor,Restaurante.jpg
+566,Carlitos el rey,Av. Juan B. Justo 1239,-34.5834512,-58.4321514,,,,,,Casera,Restaurante.jpg
+567,Atlanta wing factory,Bonpland 1914,-34.5817443,-58.4355455,,,,,,Norteamericana,Restaurante.jpg
+568,Azúcar Belgrano,Av. Córdoba 4175,-34.596635,-58.425873,,,,,,"Cubana, Pizza",Restaurante.jpg
+569,Espacio gasset (a puertas cerradas),"Fray Justo Sta. Maria De Oro 2494 3º ",-34.579384,-58.4244646,,,,,,De Autor,Restaurante.jpg
+570,Pinamar,Salguero 2069,-34.586532,-58.412544,,,,,,Pizza,Pinamar-10366-cfdf3d46-1eef-c47d-26ac-56d094f0cc9f
+571,Lo de ansis club,Avenida Cerviño 3893,-34.5782828,-58.4141348,,,,,,"Casera, Pizza",Restaurante.jpg
+572,Casa Jache bar,Aranguren 213,-34.6109155,-58.4339756,50,,,,,Variada,Restaurante.jpg
+573,Temple Craft,Costa Rica 4699,-34.5880245,-58.4272091,50,,28,28,4,variada,temple-craft-H8omy-4ec382e8-f013-4997-8756-fd3bd79226d5
+574,Rústico baires,Uriarte 1610,-34.587443,-58.431996,,,,,,Porteña,photo_3952_1.jpg-fdd31fd4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+575,Rusty nail,Av. Raúl Scalabrini Ortíz 1398,-34.592269,-58.426927,,,,,,"Española, Italiana",photo_4006_1.jpg-fdd3e28e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+576,Sabino,Baez 401,-34.571348,-58.43234,,,,,,Variada,Restaurante.jpg
+577,Palillos de oro,Gallo 1532,-34.592452,-58.409526,,,,,,China,Restaurante.jpg
+578,Código rock,Antonio Beruti 3336,-34.5872002,-58.409579,75,,,,,Variada,Restaurante.jpg
+579,Instinto,Gascón 1275,-34.595474681877,-58.423014774986,,,,,,"Norteamericana, Porteña",photo_2759_1.jpg-fdd0fd41-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+580,Brujas,Costa Rica 4827,-34.587139285671,-58.428387784539,,,,,,"Pizza, Casera",photo_2805_1.jpg-fdd14ac1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+581,La casita de Tucumán,Ecuador 1507,-34.5928555,-58.4030035,,,,,,Autóctona,La-Casita-de-Tucuman-11134-e954dfee-65d3-5f95-820c-56d04dc4333b
+582,Cervelar,humboldt 1864,-34.5836526,-58.4340399,25,,,,,Internacional,cervelar-5nDrK-8e2099c9-37fc-4d27-8560-f6d342e512ab
+583,Clara Lopez restó,Armenia 2031,-34.5873267,-58.424059,,,,,,De Autor,photo_14846_1.jpg-fdd717b8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+584,Lab. Training Center & Coffee Shop,Humboldt 1542,-34.5860948,-58.4368041,50,,,,,Variada,Lab--Training-Center---Coffee-Shop-15308-c6423a5d-d166-4e08-b3d7-61ddfaf096aa
+585,Uqbar,Cabrera 5569,-34.585854063239,-58.437786674009,,,,,,Mediterránea,photo_969_1.jpg-fdce8bdb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+586,Nekila caffé,Gorriti 3609,-34.595608,-58.415211,,,,,,Pizza,photo_6427_1.jpg-fdd43244-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+587,On Tap,Costa Rica 5527,-34.5831405,-58.4339305,50,,28,28,4,variada,on-tap-K4Whb-c83fe8da-0432-4248-b3b7-3be60b0ed58c
+588,La Bodega del Pintor bar de vino,"Av. Salvador Maria del Carril ",,," 3139",-34.592622,-58.5013427,,,,,,Variada,Restaurante.jpg
+589,Dosantos,Honduras 5275,-34.5869927,-58.4327071,,,,,,Variada,Restaurante.jpg
+590,El Cau,Gurruchaga 1417,-34.590618,-58.431142,,,,,,"Pizza, Porteña",photo_4082_1.jpg-fdd40a2a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+591,De Linoire,Cabello 3181,-34.5820635,-58.4064387,50,,,,,Francesa,de-linoire-avamd-94700cca-48ed-8706-ac7b-55cb8d8705cd
+592,La Arepería de Buenos Aires,Bonpland 2430,-34.577529,-58.430809,,,,,,"Colombiana, De Autor, Pescados Y Mariscos",la-areperia-de-buenos-aires-tzr62-139b4ea0-d639-a50c-4a92-571791ab1789
+593,La Dama Juana,Gascón 1417,-34.5939158,-58.4227519,50,,,,,"Casera, Parrilla",la-dama-juana-g59fa-e6b03ea1-c4db-6910-91f0-5708010f3dc5
+594,JC lo de José,Av. Raúl Scalabrini Ortiz 1543,-34.5912507,-58.4254643,,,,,,Porteña,photo_901_1.jpg-fdce8b8f-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+595,Thali,Armenia 2325,-34.5851079,-58.4205941,100,,,,,India,photo_15258_1.jpg-fdd82884-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+596,Terrazas Bistró,Av. Sarmiento 2698,-34.5801038,-58.4199298,100,,,,,Variada,Terrazas-Bistro-15690-4769a120-bc43-7ad7-6ecd-56d0591ee47f
+597,Waresneim,Malabia 1575,-34.590849048494,-58.427266341771,,,,,,De Autor,photo_1905_1.jpg-fdcfc446-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+598,Toco unplugged,José Antonio Cabrera 5507,-34.5863612,-58.4372231,,,,,,Internacional,photo_1914_1.jpg-fdcfc45a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+599,La Viola,Humboldt 1793,-34.5841518,-58.4345555,,,,,,Variada,La-Viola-14354-d9f5c02d-e56e-4c70-2136-5785101cca9d
+600,Vibes (Vibes Hotel),Rep. de Eslovenia 1867,-34.5699861,-58.4339813,,,,,,De Autor,photo_14530_1.jpg-fdd71711-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+601,Poke,Thames 1795,-34.5861553,-58.4300609,,,,,,Japonesa Sushi,Restaurante.jpg
+602,Pacha Mama -Punta del Este-Buenos Aires,Gorriti 4788,-34.5908176,-58.4290462,100,,,,,Internacional,photo_15306_1.jpg-fdd828b4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+603,Minimal,Thames 1786,-34.586736563293,-58.42924356879,,,,,,Porteña,photo_2807_1.jpg-fdd14ac9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+604,Namida,Bonpland 2275,-34.5788915,-58.4321928,75,,,,,"Porteña, Japonesa Sushi, Peruana",namida-ryyai-ad89cf66-8379-51e1-39af-57965a611da5
+605,Fiona bistro & patisserie,Armenia 1539,-34.59034459328,-58.428772742288,,,,,,Mediterránea,photo_1352_1.jpg-fdcf2813-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+606,Arepita de manteca (a puertas cerradas),"Malabia y Soler ",-34.588068116044,-58.422975540161,,,,,,Venezolana,Restaurante.jpg
+607,Soberbio Isósceles,Salguero 3172,-34.5756033,-58.4040293,,,,,,Pizza,Restaurante.jpg
+608,Hai sushi,Beruti 4680,-34.5771887,-58.4251662,,,,,,Japonesa Sushi,Restaurante.jpg
+609,Patricia villalobos,Castex 3317,-34.5784718,-58.4048889,,,,,,"De Autor, Deli",93fb39474c51b8a82a68413e2a5ae17a_Patricia-Villalobos-11340.jpg
+610,5to bar & quickmeals,El Salvador 5783,-34.581809,-58.437295,,,,,,"Mediterránea, De Autor",photo_3982_1.jpg-fdd3e266-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+611,Los girasoles,Armenia 2397,-34.584533,-58.4196,,,,,,"Pizza, Española",photo_4023_1.jpg-fdd409b6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+612,Pampa mansa,Humboldt 1925,-34.583215,-58.433442,,,,,,Parrilla,photo_4062_1.jpg-fdd40a0a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+613,Nesta,Honorio Pueyrredón 619,-34.6127491,-58.4416034,75,,,,,Variada,Restaurante.jpg
+614,Bahrein,Lavalle 345,-34.6019999,-58.3717846,,,,,,Variada,Restaurante.jpg
+615,Oxo restaurante de tapas,Fitz Roy 1982,-34.581881,-58.433713,,,,,,Porteña,photo_7732_1.jpg-fdd4f4d7-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+616,Western wrangler saloon,Juramento 2121,-34.5604723,-58.4540197,,,,,,Variada,Restaurante.jpg
+617,Borges 1975,Jorge Luis Borges 1975,-34.586238,-58.4263513,75,,,,,"Pizza, Casera",borges-1975-d8opa-5d05527d-e65d-49c6-f4c5-56eac6a008a3
+618,Nucci bar,Uriarte 1901,-34.58537,-58.428778,,,,,,Pizza,photo_6663_1.jpg-fdd45844-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+619,El ricci,Bonpland 1861,-34.582052219465,-58.435930130373,,,,,,"Pizza, Norteamericana",photo_3869_1.jpg-fdd2d208-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+620,Pabellón 4,Uriarte 1332,-34.589213132712,-58.43483172682,,,,,,Norteamericana,Pabellon-4-702-305e0327-928f-c884-4a97-56d730fc0ad4
+621,Crack up,Costa Rica 4767,-34.5876135,-58.4278307,,,,,,"Norteamericana, Pizza",photo_2786_1.jpg-fdd0fd79-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+622,Reggio,Guatemala 5798,-34.5787548,-58.4339511,,,,,,Porteña,photo_718_1.jpg-fdce64a3-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+623,Holy Burgirls,Bulnes 1248,-34.5972228,-58.4171528,75,,,,,Norteamericana,holy-burgirls-w91t3-6b700bd8-21bc-791f-e080-56704e8abef0
+624,The beer house,"Carlos Carlvo ",0,0,,,,,,Variada,Restaurante.jpg
+625,Mi casa,José Antonio Cabrera 4562,-34.5931968,-58.4277507,,,,,,Arabe,photo_7071_1.jpg-fdd4a738-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+626,Lazaro,Beruti 4592,-34.577731,-58.424261,,,,,,Pizza,Restaurante.jpg
+627,Schwartz & Berg,Fitz Roy 1617,-34.5847458,-58.4370249,50,,,,,variada,schwartz-berg-qU8wi-3f5bb144-c27e-4821-8646-06cc4c8b2222
+628,Unicorn Huset,Honduras 5730,-34.582999619384,-58.437859961377,,,,,,Variada,unicorn-huset-id25s-72673a4d-8dbd-388b-09a9-56f2dd9a9ebf
+629,Sushi Club,Migueletes 984,-34.5653993,-58.4359885,100,,,,,"Japonesa Sushi, Internacional",Restaurante.jpg
+630,Crisol Palermo,Gral. Lucio Norberto Mansilla 3799,-34.5897341,-58.4164169,75,,,,,"Natural, Deli",crisol-palermo-NnU2l-1f7af9f6-4a28-48ce-b3cd-b0f9e88d96f6
+631,Vosseli,Güemes 4144,-34.584949,-58.418988,,,,,,De Autor,photo_4032_1.jpg-fdd409ca-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+632,Ureña,Humboldt 1920,-34.5831204,-58.4335379,100,,,,,Mediterránea,urea-EDRLS-6423f3aa-073a-4d65-8463-3dc26d711e09
+633,Mezcal,Costa Rica 4502,-34.5894461,-58.4253468,50,,,,,"Latinoamericana, Internacional, Mexicana",Restaurante.jpg
+634,Maiky Parrilla,gorriti 5802,-34.5834091,-58.4395443,50,,,,,"Parrilla, Autóctona, Porteña",maiky-bU5nL-b0c71a80-7d62-4cba-b033-b18adcbff591
+635,Decata,Honduras 6100,-34.5800628,-58.4415357,75,,,,,Variada,Restaurante.jpg
+636,Dársena Bar,Jose Antonio Cabrera 4354,-34.5946126,-58.4258583,50,,,,,Variada,drsena-bar-j0jrW-55f64613-ec84-4adf-90e1-b7b9ea4c4f47
+637,Mamía,Pagano 2748,-34.583363,-58.400281,,,,,,Francesa,Restaurante.jpg
+638,Genghis Mongolian Grill,El Salvador 5090,-34.5870639,-58.4306094,,,,,,"Sudeste Asiático, Natural",genghis-mongolian-grill-q70r8-afd63c77-f6da-b1c9-bab3-56a69341aeb5
+639,El santuario del arte,Gurruchaga 1794,-34.587987380528,-58.427235234462,,,,,,Porteña,Restaurante.jpg
+640,Nail Lee Coffee,Gorriti 4832,-34.5905148,-58.4296044,50,,,,,"Casera, Coreana, Natural",lee-jun-yeol-GogRh-a5dc0b86-e6d1-47e9-b646-5784bdfbc173
+641,Qustom,Malabia 1885,-34.589001,-58.424365,,,,,,"Casera, Italiana, Pizza",Restaurante.jpg
+642,Cinquecento 500,Fitz Roy 1747,-34.5837954,-58.4358571,,,,,,"Parrilla, Italiana",Cinquecento-500-15740-4f4f90a7-54d4-4afb-bb75-56d0554ced14
+643,Mostacho´s,Uriarte 1423,-34.5885811,-58.4337549,,,,,,Pizza,Restaurante.jpg
+644,1843,Humboldt 1843,-34.583721733568,-58.434141095145,,,,,,Autóctona,photo_1989_1.jpg-fdcfead2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+645,La Fonda de Verm y Cheli,Jorge Luis Borges 2482,-34.5821326,-58.4211214,50,,,,,"Pizza, Pescados Y Mariscos, Parrilla",la-fonda-de-verm-y-cheli-ya5h2-dbf77642-1498-c2ba-65b7-55a55d393f74
+646,Compañia de Chocolates,Segui 3551,-34.5792325,-58.408492,50,,,,,Variada,Restaurante.jpg
+647,Spikey John´s,Bonpland 1670,-34.5835951,-58.4376356,,,,,,Norteamericana,Restaurante.jpg
+648,One Blood Bar,Gallo 1307,-34.5950526,-58.4109214,,,,,,"De Autor, Pizza",photo_14938_1.jpg-fdd73e14-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+649,Por fin llegaste,Dr. Emilio Ravignani 1466,-34.5837824,-58.441701,,,,,,Casera,Restaurante.jpg
+650,Old Rotten,Juncal 150,-34.657445,-58.665082,,,,,,Variada,Restaurante.jpg
+651,Jumo,Honduras 5288,-34.5869278,-58.432818,,,,,,Porteña,Restaurante.jpg
+652,New York New York,Fitz Roy 2192,-34.5803769,-58.4320545,,,,,,"Norteamericana, Italiana, Mexicana",Restaurante.jpg
+653,Pimienta y canela,Malabia 2143,-34.58746,-58.421973,,,,,,Casera,photo_13692_1.jpg-fdd6a275-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+654,Sacramento resto bar,El Salvador 5729,-34.582209683772,-58.436658187752,,,,,,Mediterránea,Restaurante.jpg
+655,Cinko kosher deli,Av. Cerviño 3556,-34.580012970483,-58.409179259002,,,,,,"Arabe, Deli",Restaurante.jpg
+656,Tupak,Av. Coronel Diaz 2599,-34.582297,-58.405756,,,,,,"Parrilla, Pizza",Restaurante.jpg
+657,Trumanbar,Bonpland 2187,-34.579518519002,-58.43302730782,,,,,,Autóctona,photo_3833_1.jpg-fdd2aa9c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+658,Pizzería bahia,Bulnes 1449,-34.594743452291,-58.416557812796,,,,,,Pizza,photo_2790_1.jpg-fdd0fd81-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+659,Bar rock,Av. Córdoba 4199,-34.5964937,-58.4261974,,,,,,Porteña,photo_7309_1.jpg-fdd4a7c4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+660,Waffles House,Gorriti 4918,-34.5899525,-58.4305559,50,,,,,"Vegetariana, Norteamericana",Restaurante.jpg
+661,Cocos,Honduras 5357,-34.5863868,-58.4334723,75,,,,,Peruana,cocos-qGvnD-e37fc89b-deed-4a6e-89ea-e77b6504a013
+662,Aintab (Club social unión patriótica armenios de Aintab),Av. Cnel. Niceto Vega 4876,-34.591656,-58.4322645,100,,,,,Armenia,aee5620fa0432e528275b8668581d9a8_Aintab--Club-social-union-patriotica-armenios-de-Aintab--11752.png
+663,Al merendero,Gurruchaga 1335,-34.5911734,-58.4320821,,,,,,Casera,Restaurante.jpg
+664,Palermo,Godoy Cruz 2725,-34.5784233,-58.4250054,,,,,,Variada,Restaurante.jpg
+665,Establecimiento General del Café,Pueyrredón 1529,-34.5931148,-58.4017094,,,,,,Variada,Restaurante.jpg
+666,Montana,Cabrera 3301,-34.5968126,-58.4130016,,,,,,De Autor,Restaurante.jpg
+667,Trifle,Soler 4499,-34.5882499,-58.423226,,,,,,Casera,photo_11966_1.jpg-fdd62d89-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+668,Denver,Av. Rivadavia 14232,-34.6411757,-58.5677019,,,,,,Variada,Restaurante.jpg
+669,Uptown.ba,Arévalo 2030,-34.5781099,-58.4373123,100,,,,,variada,uptown-ba-X6pfM-27680c03-d93f-4aeb-9dde-1f67af1819da
+670,Moby dick,Gallo 769,-34.6006614,-58.4123711,,,,,,Variada,Restaurante.jpg
+671,Pride Hollywood,Humboldt 1897,-34.583424,-58.433734,,,,,,Casera,Pride-Hollywood-10002-351d0cf1-b30c-ba3a-bbfb-56d05452ed03
+672,Bengal Deli,Cabello 3780,-34.580155,-58.412918,100,,,,,"Italiana, India",Benga-Deli-15682-dfa29508-9d26-114b-bb32-56d05907ebcc
+673,Los amigos,Paraguay 3100,-34.594994214405,-58.410942510529,,,,,,Pizza,photo_2441_1.jpg-fdd0ae52-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+674,Toribia,Av. Córdoba 5099,-34.590737604137,-58.435272000457,,,,,,"Pizza, Porteña, Italiana",Restaurante.jpg
+675,Flux bar,Marcelo T. De Alvear 980,-34.5966722,-58.3810887,,,,,,Variada,Restaurante.jpg
+676,La cava de rovere,Honduras 4300,-34.593554,-58.423593,,,,,,"Autóctona, Norteamericana",photo_4012_1.jpg-fdd409ae-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+677,Círculo de salvavidas,Cabello 3958,-34.579369376229,-58.414766179635,,,,,,Porteña,photo_3130_1.jpg-fdd1c0f5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+678,El pasaje resto bar,Pasaje el Lazo 3141/ 51,-34.580854,-58.409657,,,,,,"Parrilla, Pizza, Judía",El-Pasaje-Resto-Bar-2206-219b46fe-9e36-8bec-248f-56d0444a68a7
+679,Prado y Neptuno,Ayacucho 2134,-34.5864886,-58.3880826,,,,,,Variada,Restaurante.jpg
+680,Indiana Bar & Grill,Armenia 1784,-34.588902,-58.42668,25,,,,,Porteña,Restaurante.jpg
+681,Waro´s,Angel Justiniano Carranza 1601,-34.583262930429,-58.439252469923,,,,,,De Autor,photo_3266_1.jpg-fdd235cd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+682,Bodega cervecera,Thames 1759,-34.587001,-58.4294777,,,,,,Variada,Restaurante.jpg
+683,La morocha,Bonpland 1808,-34.582397097772,-58.436325243645,,,,,,De Autor,Restaurante.jpg
+684,Kim y Novak,Güemes 4900,-34.579765,-58.426076,,,,,,Internacional,Restaurante.jpg
+685,Jack Flash,Av. del Libertador 14199,-34.5359332,-58.4667827,,,,,,Variada,Restaurante.jpg
+686,Modena,Charcas 4102,-34.585364,-58.4209,,,,,,Porteña,photo_3858_1.jpg-fdd2d1ec-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+687,Casa de la nonna,Jerónimo Salguero 2218,-34.585606129568,-58.411534045437,,,,,,Pizza,photo_3861_1.jpg-fdd2d1f8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+688,Al queso queso,Av. Cerviño 3667,-34.579536,-58.410766,,,,,,De Autor,photo_5755_1.jpg-fdd43157-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+689,Dulces confidencias,José Antonio Cabrera 5600,-34.5857428,-58.4380753,,,,,,De Autor,photo_12790_1.jpg-fdd67a85-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+690,Troiano club,Cabrera 3780,-34.596542,-58.419708,,,,,,Variada,Restaurante.jpg
+691,Camba Bar,Uriarte 1838,-34.585848,-58.4296961,50,,,,,"Pizza, Vegetariana",camba-bar-TetUc-4190a0ba-62a4-4102-879d-891cb747c9cd
+692,SANTO,Charcas 4799,-34.580746,-58.4270499,75,,,,,"De Autor, Pizza",santo-hkg23-90cad373-303d-cd22-43b8-56156ba1d277
+693,Vuela el pez,Córdoba Av. 4379,-34.5931153,-58.4364409,,,,,,Variada,Restaurante.jpg
+694,Logia Ortiz,Scalabrini Ortiz Av. 757,-34.5967253,-58.4338235,75,,,,,Variada,Restaurante.jpg
+695,4 vier resto & lounge,El Salvador 4947,-34.587741,-58.42959,,,,,,"Pizza, Porteña",photo_6824_1.jpg-fdd4a652-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+696,Ritual,Antonio Beruti 2954,-34.589985,-58.405865,,,,,,"Porteña, Parrilla",photo_6889_1.jpg-fdd4a6b6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+697,Opium garden,Juan B. Justo Av. 1659,-34.5865051,-58.4362664,,,,,,Variada,Restaurante.jpg
+698,Cachito Hollywood,Costa Rica 5699,-34.5818717,-58.4356759,75,,,,,Parrilla,Restaurante.jpg
+699,Danilas,J. A. Cabrera 4802,-34.5913888,-58.4303052,,,,,,Variada,Restaurante.jpg
+700,Hakone &quot;Sushi Nikkei&quot;,Costa Rica 4409,-34.5901388,-58.424107,50,,,,,"Japonesa Sushi, Pescados Y Mariscos, Peruana",hakone-sushi-nikkei-41dw0-e5ec4773-cf5c-2961-5519-571e3522eacd
+701,Narciso,Cabrera 4802,-34.6861248,-58.553699,75,,,,,"Arabe, Casera",Restaurante.jpg
+702,Trionfale,Godoy Cruz 2209,-34.5833889,-58.429254,50,,,,,Casera,trionfale-qqj8o-efb97f24-379d-196e-f22a-55e9ab1e1bc4
+703,Tadrón,Av. Cnel. Niceto Vega 4802,-34.5921867,-58.4314685,,,,,,Armenia,photo_4086_1.jpg-fdd40a2e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+704,QuitaPenas,Fitz Roy 1747,-34.5838172,-58.435813,,,,,,Italiana,quitapenas-6cmgs-abf6c64e-8a9c-9fdd-fc50-57852e22c34e
+705,Chabrés,Maipú 530,-34.601959,-58.376729,,,,,,Variada,Restaurante.jpg
+706,Home Burger Bar,Bondpland 1577,-34.5843769,-58.438368,50,,,,,Norteamericana,home-burguer-bar-e5Ee8-07f42ec7-f68e-4bda-a255-bad719b9603f
+707,Baduani,Malabia 1465,-34.591782,-58.4284294,100,,,,,"Armenia, Arabe",Restaurante.jpg
+708,Punto Pizza,Av. Gral. Las Heras 3333,-34.582999,-58.407523,50,,,,,Pizza,Restaurante.jpg
+709,Biblos,Bulnes 2201,-34.5865286,-58.410072,50,,,,,Pizza,Restaurante.jpg
+710,Tea Connection,Sinclair 3027,-34.5748172,-58.4233361,50,,,,,Natural,2606a43287c7958a9836c7f6be097175_tea-connection-d8db8.png
+711,The blues brothers club,Av. Niceto Vega 5572,-34.586942,-58.439074,,,,,,"Porteña, Internacional",photo_8612_3.jpg-fdd51c3e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+712,Be Hollywood resto (Be Hollywood hotel),Humboldt 1726,-34.5846676,-58.4351509,,,,,,De Autor,Restaurante.jpg
+713,Ave Caesar (Alto Palermo),"Av. Santa Fe 3253 ",-34.5884755,-58.4109572,50,,,,,variada,ave-caesar-alto-palermo-FHmOp-e4ccc82e-a4f0-4580-9dc5-2deca6dc8b09
+714,La hipica,Av. Figueroa Alcorta 4800,-34.5686909,-58.4159444,,,,,,"Porteña, Parrilla",photo_8270_1.jpg-fdd51bda-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+715,Lomo feroz,Honduras 5291,-34.586877,-58.432822,,,,,,Autóctona,photo_7954_1.jpg-fdd4f586-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+716,Pérgola,Bonpland 1578,-34.5843,-58.438491,,,,,,Pizza,photo_7958_1.jpg-fdd51b9e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+717,Chupitos,Bonpland 1670,-34.5835951,-58.4376356,,,,,,Latinoamericana,c131278e28b4703f6466a4bdf0fa863e_Chupitos-15104.jpg
+718,Kentucky,Av. Santa Fé 4202,-34.5811934,-58.4217318,,,,,,Pizza,Siete Cocinas.jpg-fdd82903-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+719,Tatu,Cabello 3918,-34.5796603,-58.4141962,,,,,,Porteña,Tatu.jpeg-fdd82909-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+720,Meme,Gorriti 5881,-34.5826981,-58.4401063,,,,,,Natural,Restaurante.jpg
+721,Antesala,Costa Rica 4968,-34.586235500737,-58.42974270009,,,,,,"Española, Italiana, Porteña",photo_1585_1.jpg-fdcf4f92-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+722,Resto  Bar Inka Palermo,Av Raúl Scalabrini Ortiz 1235,-34.5934614,-58.4287695,100,,,,,Peruana,Inka-Si-Senior-14822-18f19e22-0808-4642-8ed6-f633a1d02e76
+723,Medio Oriente,José Antonio Cabrera 4702,-34.5921819,-58.4291881,50,,,,,Armenia,Restaurante.jpg
+724,Principal,Salvador 5729,-34.582209683772,-58.436658187752,,,,,,Variada,Restaurante.jpg
+725,Le vignole,Guatemala 5776,-34.578835257189,-58.43371313644,,,,,,De Autor,photo_1983_1.jpg-fdcfeaca-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+726,Resto bar del club,Fitz Roy 2238,-34.579923153926,-58.431545626981,,,,,,Variada,photo_1984_1.jpg-fdcfeace-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+727,Vai-mo,Gurruchaga 1831,-34.587751677416,-58.426870674181,,,,,,De Autor,photo_1990_1.jpg-fdcfead6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+728,The Factory,El Salvador 4995,-34.5874135,-58.4300614,,,,,,Natural,photo_15060_1.jpg-fdd801ec-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+729,Urban Crepe,Godoy Cruz 2570,-34.5890298,-58.4257981,75,,,,,"De Autor, Casera, Deli",Urban-Crepe-14536-1133bf40-1595-b2a8-5f6b-56f2ddf3ebc2
+730,Mala restaurant & pub,Honduras 5309,-34.5867557,-58.4329825,,,,,,"Pizza, Japonesa Sushi",photo_14900_1.jpg-fdd717e4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+731,Bicycle Café,Paraguay 3002,-34.595647,-58.4096434,,,,,,Deli,Restaurante.jpg
+732,Anita bakery,Charcas 4103,-34.5852761,-58.4209644,,,,,,"Francesa, Casera",b252e54edce965ac4408effd7ce41fb7_Anita-bakery-12652.jpg
+733,El renaciente,Gorriti 3902,-34.5954693,-58.4198023,,,,,,Porteña,Restaurante.jpg
+734,Jalapeña espacio cultural,Carranza 1969,-34.5802652,-58.4357434,,,,,,"Mexicana, Porteña",Restaurante.jpg
+735,Tatan,Nicaragua 5606,-34.5816709,-58.4335473,,,,,,Deli,photo_14090_1.jpg-fdd6c8d5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+736,Crepe town,Gorriti 5608,-34.584878,-58.4372789,,,,,,"De Autor, Casera",b0ba3ef0fbb84634cbda64006c598618_Crepe-town-13630.jpg
+737,Le petit Paris (a puertas cerradas),"Borges y Guatemala ",-34.585683289627,-58.425453901291,,,,,,"Francesa, De Autor",photo_13222_1.jpg-fdd67acd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+738,Santo Pizzeria,Charcas 4799,-34.580746,-58.4270499,,,,,,Pizza,Restaurante.jpg
+739,Pampita,Av. Cnel. Niceto Vega 5169,-34.589758,-58.434871,,,,,,Parrilla,photo_2277_1.jpg-fdd060f6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+740,Saint bar´t,Jose Luis Borges 1895,-34.586762,-58.42709,,,,,,Porteña,photo_2350_1.jpg-fdd087c6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+741,Zapi,Aráoz 2403,-34.5867067,-58.4164809,,,,,,Pizza,photo_2178_1.jpg-fdd03a36-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+742,Velma Café,Gorriti 5520,-34.5855199,-58.436472,100,,,,,Porteña,Restaurante.jpg
+743,Patio arrabalero tango bar,Paraguay 5150,-34.579727170801,-58.430433923596,,,,,,Autóctona,photo_2948_1.jpg-fdd172c1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+744,Eventos Bonus,Paraguay 5288,-34.578655886282,-58.431803448979,,,,,,De Autor,photo_2973_1.jpg-fdd198fd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+745,011VEGAN,Arévalo 3018,-34.5710155,-58.4303011,100,,,,,Vegetariana,011vegan-5is7k-4b9542b7-ff7f-7b86-af68-56eabf49f19e
+746,Dottore pizza,Uriarte 1901,-34.585223824202,-58.428816447635,,,,,,Pizza,photo_3160_1.jpg-fdd1c121-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+747,Itamae Sushi,Avenida Cerviño 3402,-34.5807911,-58.407297,100,,,,,Japonesa Sushi,itamae-sushi-hxsid-6f54d954-3c10-42b7-a01c-af0d4708c592
+748,Aroma,Armenia 1618,-34.5897949,-58.427982,50,,,,,Porteña,Restaurante.jpg
+749,Madama roja,Fitz Roy 2192,-34.580403,-58.431975,,,,,,"Española, Casera",Restaurante.jpg
+750,Empanadísima,Av. Scalabrini Ortiz 1191,-34.593786,-58.429235,,,,,,Autóctona,photo_6785_1.jpg-fdd47f04-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+751,La popular,Caseros Av. 500,-34.6267533,-58.3725294,100,,,,,Variada,Restaurante.jpg
+752,Vita,El salvador 4500,-34.590985,-58.424964,,,,,,Pizza,photo_7073_1.jpg-fdd4a740-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+753,Jet Lounge,Rafael Obligado Av. 4801,-34.560059,-58.408428,,,,,,Variada,Restaurante.jpg
+754,Piacere,Salguero 2296,-34.5852096,-58.4109961,,,,,,"Italiana, Pizza",Restaurante.jpg
+755,La olla del Caribe,Joé Antonio Cabrera 3416,-34.5967646,-58.4144284,,,,,,Colombiana,Restaurante.jpg
+756,The pick market,Demaria 4527,-34.5748423,-58.42087,100,,,,,Internacional,Restaurante.jpg
+757,Tea break,Arenales 3660,-34.585389,-58.4136994,,,,,,Porteña,Restaurante.jpg
+758,Estilo Veggie,Fitz Roy 1941,-34.5823218,-58.4340971,50,,,,,Vegetariana,Restaurante.jpg
+759,The hidden kitchen (a puertas cerradas),"Malabia y Jufré ",-34.594912430573,-58.433377283884,,,,,,"Sudeste Asiático, China",359499f804ea7988921bf86c9377fb95_The-hidden-kitchen-12536.png
+760,Urbano rock,Humboldt 1391,-34.5874079,-58.4385969,,,,,,Porteña,Restaurante.jpg
+761,Tentissimo,"Bullrich 345 ",-34.574677994197,-58.42506183354,,,,,,Variada,Tentissimo.jpg-fdd82912-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+762,Donair (Hotel Aeroparque Inn & Suites),Av. Rafael Obligado 1221,-34.5573311,-58.4116745,100,,,,,Internacional,Restaurante.jpg
+763,Gotama,República Dominicana 3386,-34.59103,-58.413514,,,,,,Porteña,Restaurante.jpg
+764,Universo fútbol,Uriarte 1878,-34.585485,-58.429125,,,,,,Variada,photo_10412_1.jpg-fdd5b805-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+765,Cafe montenegro,Soler 6002,-34.577662,-58.436669,,,,,,Casera,photo_10500_1.jpg-fdd5b81d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+766,Roinnt old ale house,Honduras 5551,-34.5845032,-58.435832,,,,,,Irlandesa,photo_12060_1.jpg-fdd62db9-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+767,Alma bar,Hipolito Yrigoyen 6429,-34.6151666,-58.4291897,75,,,,,Variada,Restaurante.jpg
+768,Tequila,Costanera Norte Rafael Obligado Av 1439,-34.559132,-58.444634,,,,,,Variada,Restaurante.jpg
+769,La nonna anyulina,Av. Scalabrini Ortiz 2762,-34.5837084,-58.4137267,,,,,,Pizza,Restaurante.jpg
+770,Sweet home Buenos Aires,Thames 1506,-34.5887034,-58.4321289,,,,,,Pizza,photo_5322_1.jpg-fdd43133-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+771,Samohu meeting point,Gorriti 5132,-34.588621,-58.4325,,,,,,"Pizza, Porteña",photo_5325_1.jpg-fdd43137-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+772,Garzon,Gorriti 4939,-34.5897629,-58.4306098,,,,,,De Autor,Garzon-15694-c3e6f910-9cb1-1e37-eedc-56d05380b293
+773,il Posto,Soler 5502,-34.581608,-58.4316512,,,,,,"Autóctona, Casera, Deli",il-Posto-15716-7fac8c62-6361-9b39-ca32-56d058f7a787
+774,La esquina,"República Arabe Siria ",-34.583186,-58.415581,,,,,,Norteamericana,photo_2499_1.jpg-fdd0aea1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+775,MMMQue rico!,Tte. Benjamín Matienzo 1680,-34.5676489,-58.433422,50,,,,,Casera,Restaurante.jpg
+776,Lynns,Costa Rica 4752,-34.587751,-58.427674,,,,,,Autóctona,photo_4021_1.jpg-fdd409b2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+777,Pista Urbana,Chacabuco 874,-34.618246,-58.375844,100,,,,,Variada,Restaurante.jpg
+778,Soho bar,Gurruchaga 1519,-34.58989,-58.430043,,,,,,De Autor,Restaurante.jpg
+779,Robbie (Shopping torres del sol),Panamericana Km 50,-34.4883919,-58.5817185,,,,,,Variada,Restaurante.jpg
+780,Biozona,Gorriti 3538,-34.595514988671,-58.414252253255,,,,,,De Autor,Restaurante.jpg
+781,Nonnino,Av. Las Heras 3899,-34.581734,-58.414206,,,,,,"Italiana, Española",Restaurante.jpg
+782,Yolo Bar,Charcas 4800,-34.5807692,-58.4270743,50,,,,,"Norteamericana, Casera",yolo-bar-6k6ge-e9cd3ec1-d759-6bb2-be4f-56f18f76ab23
+783,La oreja negra,Uriarte 1271,-34.5897758,-58.4355314,,,,,,Variada,Restaurante.jpg
+784,El tafí,Av. Raúl Scalabrini Ortiz 2815,-34.583384,-58.413156,,,,,,Autóctona,photo_7259_1.jpg-fdd4a7a4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+785,Santa Eva,Serrano 1557,-34.5890223,-58.4306456,,,,,,Española,photo_11952_1.jpg-fdd62d71-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+786,Baradentro,Julián Álvarez 1124,-34.595391,-58.427919,,,,,,"Casera, Norteamericana",ddbc86dc4b2fbfd8a62e12096227e068_Baradentro-9862.jpg
+787,Septimo arte resto bar (Multiespacio),Av. San Pedrito 107,-34.632325,-58.469067,,,,,,Variada,Restaurante.jpg
+788,Casona cultural humahuaca,Humahuaca 3508,-34.6029059,-58.4144141,,,,,,Variada,Restaurante.jpg
+789,The Coffee Store,Charcas 3396,-34.590583,-58.4138543,75,,,,,Variada,Restaurante.jpg
+790,Gorriti Art Center,Juan B Justo 1617,-34.5861076,-58.4360983,75,,,,,"Internacional, De Autor",gorriti-art-center-kn50U-e7362db8-380e-4a0b-a4d0-70f86f3df086
+791,Freddo,Armenia 1618,-34.5897949,-58.427982,50,,,,,Porteña,Restaurante.jpg
+792,La vieja esquina,"Calle 25 ",-34.650032,-59.42977,,,,,,Variada,Restaurante.jpg
+793,Argento,Gurruchaga 1519,-34.5898899,-58.4300436,,,,,,"Autóctona, Deli, Porteña",Restaurante.jpg
+794,Gibson,Scalabrini Ortiz 1398,-34.5921901,-58.4269144,,,,,,Variada,Restaurante.jpg
+795,Broda Rock & Bar,Av Nazca 1534,-34.616112,-58.477704,,,,,,Variada,Restaurante.jpg
+796,Loco Arte,Mitre 1285,-34.796778,-58.3906014,,,,,,Variada,Restaurante.jpg
+797,40x5 Tributo,Cuenca 3602,-34.5967119,-58.4989674,,,,,,Variada,Restaurante.jpg
+798,Berlin,Humboldt 1411,-34.5873391,-58.4381923,,,,,,Variada,Restaurante.jpg
+799,Vitto,Costa Rica 4699,-34.5880343,-58.4271823,100,,,,,"Pizza, Casera",vitto-dxpo3-ec0ed159-9905-db8b-041e-56f2ded9e6c7
+800,Cursi,Coronel Niceto Vega Av. 5702,-34.5859577,-58.4404293,,,,,,Variada,Restaurante.jpg
+801,Tienda de Café,Báez 400,-34.5715579,-58.43212,,,,,,Porteña,Restaurante.jpg
+802,Ceres,Av. Libertador 2539,-34.5788997,-58.4066705,,,,,,Variada,Restaurante.jpg
+803,Santorino,Gorriti 5675,-34.584294,-58.4378569,50,,,,,Internacional,Restaurante.jpg
+804,Tentissimo,Salguero 3172,-34.575566266853,-58.404023700907,,,,,,Variada,Tentissimo.jpg-fdd82910-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+805,La Cantina de los taxistas,Goritti 3628,-34.595491010636,-58.415480694866,,,,,,Variada,photo_1181_1.jpg-fdced9bb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+806,Cultural casa Cabrera,José Antonio Cabrera 3653,-34.5966151,-58.4179098,,,,,,Internacional,photo_862_1.jpg-fdce8b5b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+807,Dragon & sword,Honduras 5514,-34.584805,-58.435512,,,,,,Arabe,Restaurante.jpg
+808,El borde,Uriarte 1356,-34.589006112706,-58.43451953713,,,,,,Internacional,Restaurante.jpg
+809,El Escondido de Dorrego,Av. Dorrego 1829,-34.580447578262,-58.442049682293,,,,,,Pizza,Restaurante.jpg
+810,Todo lo que me gusta !,Repblic. Dominicana 3312,-34.591603366795,-58.412623787916,,,,,,Variada,photo_1442_1.jpg-fdcf2896-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+811,Vizzio,Billinghurst 2521,-34.583004609383,-58.403681678232,,,,,,Internacional,Restaurante.jpg
+812,Sperame tantito,Mario Bravo 1024,-34.599002,-58.416142,,,,,,Porteña,photo_1523_1.jpg-fdcf4f36-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+813,Campotango,José Antonio Cabrera 4845,-34.590978198978,-58.430677372838,,,,,,Autóctona,photo_2888_1.jpg-fdd17261-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+814,Azabache,Av. Scalabrini Ortiz 1398,-34.592104309028,-58.426859434826,,,,,,"Parrilla, Porteña",photo_2681_1.jpg-fdd0d69d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+815,Fernando,Beruti 4602,-34.577585363291,-58.424332012237,,,,,,Autóctona,photo_2701_1.jpg-fdd0d6c5-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+816,Urbana,Oro 2799,-34.575926,-58.421137,,,,,,Pizza,Restaurante.jpg
+817,Feedback,Guise 1905,-34.590911289951,-58.413095868619,,,,,,Variada,photo_2780_1.jpg-fdd0fd71-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+818,Sweetly,Salguero 2368,-34.584259408558,-58.410724331361,,,,,,Variada,photo_3017_1.jpg-fdd1c05d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+819,Scudetto,Guemes 3994,-34.586025437804,-58.417347065591,,,,,,Variada,photo_3065_1.jpg-fdd1c095-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+820,Convite,Uriarte 2027,-34.584129,-58.427527,,,,,,"Casera, Variada",convite-5heim-f1cf82e2-d48b-34bb-07ca-5697f2f46606
+821,Nice,Honduras 3717,-34.5940074,-58.4149519,,,,,,"Casera, Variada",nice-aahcn-ed2a563c-8395-a072-0cfb-55b8f02450be
+822,Tribeca,El Salvador 4166,-34.5927789,-58.4219929,,,,,,"Casera, Variada",Restaurante.jpg
+823,Foynes,Avenida Coronel Niceto Vega 4984,-34.5909447,-58.433273,,,,,,"Porteña, Pizza, Brasilera",foynes-xbx7e-bee17e90-3a21-2462-761d-56f046588018
+824,El Encuentro,Serrano 1338,-34.5905261,-58.43299,,,,,,"Autóctona, Porteña, Parrilla",Restaurante.jpg
+825,Bilefh,Gorriti 4098,-34.5953166,-58.4229353,,,,,,"Pizza, Porteña, Casera",bilefh-fp3xq-297d7f44-fa40-3c40-32aa-56eac543b925
+826,Swami Café,Salguero 2737,-34.5702236,-58.5439037,,,,,,Casera,swami-cafe-rhqtk-6078b52d-30b1-e6ac-73b6-56f2d513689d
+827,Lombok Cocina Indonesia (a puertas cerradas),Gorriti 4871,-34.590198,-58.4299296,,,,,,Internacional,Restaurante.jpg
+828,El Horno,Güemes 4689,-34.5809666,-58.4244293,,,,,,Latinoamericana,Restaurante.jpg
+829,Tout le Monde,Gurruchaga 1417,-34.5905523,-58.4310979,,,,,,"Deli, Internacional",Estilo Criollo.jpg-fdd8292b-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+830,La moresca,Paraguay 4423,-34.5852276,-58.4234707,,,,,,De Autor,photo_14186_1.jpg-fdd6c921-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+831,Cook and Roll,J. F. Seguí 3545,-34.5792702,-58.4083979,,,,,,Natural,Restaurante.jpg
+832,Iris Mendoza,Nicaragua 5901,-34.6261416,-58.4160582,,,,,,"Peruana, Internacional",Restaurante.jpg
+833,Oliverio,Av Dorrego 2200,-34.5776061,-58.4387819,,,,,,"Norteamericana, Pizza",Restaurante.jpg
+834,Efímero Medio Día,Uriarte 1411,-34.5886489,-58.4338538,,,,,,"Natural, Vegetariana",Restaurante.jpg
+835,El loco Basilio (a puertas cerradas),Costa Rica 5738,-34.581595,-58.4360793,,,,,,De Autor,photo_14642_1.jpg-fdd7176c-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+836,La Toscana Pizza & Pasta,José Antonio Cabrera 4802,-34.5913886,-58.430305,,,,,,Italiana,Restaurante.jpg
+837,404 Bistró,Honduras 5624,-34.5839911,-58.4365373,,,,,,De Autor,Restaurante.jpg
+838,VOR Resto & Bar,Honduras 5618,-34.5840381,-58.4364742,,,,,,Autóctona,Restaurante.jpg
+839,Limina,Humboldt 1551,-34.5859943,-58.4366309,,,,,,Mediterránea,limina-0szgu-898cdcb4-abd2-09c9-7963-5637c23cc986
+840,Del Viento,República Arabe Siria 3037,-34.5804967,-58.4134438,,,,,,Casera,Restaurante.jpg
+841,Taiana Cooking at Home,Armenia 1890,-34.5882011,-58.4254092,,,,,,"De Autor, Internacional",Restaurante.jpg
+842,Longevigano (A Puertas Cerradas),Nicaragua 6045,-34.5780745,-58.4380852,,,,,,Vegetariana,Restaurante.jpg
+843,Mora Buenos Aires,Humboldt 1729,-34.5846378,-58.4351152,,,,,,"Parrilla, Pescados Y Mariscos, Pizza",photo_11980_1.jpg-fdd62d91-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+844,Artenomia,Humboldt 1857,-34.583692,-58.4340619,,,,,,"Variada, Española",Restaurante.jpg
+845,Roy Bar,Fitz Roy 1281,-34.5877605,-58.4403718,,,,,,Variada,Restaurante.jpg
+846,Palermo vice,El Salvador 5729,-34.5822646,-58.436681,,,,,,"De Autor, Mediterránea",Restaurante.jpg
+847,Vita Buenos Aires,Darwin 1633,-34.5861936,-58.4349415,,,,,,"De Autor, Italiana, Japonesa Sushi",Vita-Buenos-Aires-15698-f300067a-e9e5-4f98-814f-72fb57db88f9
+848,Mellow Bar,Humboldt 1729,-34.5846474,-58.4351023,,,,,,Deli,Mellow-Bar-15742-87182bd3-e889-379f-5c72-56d055846e08
+849,4X4 Café,Av. Del Libertador 3883,-34.571179488544,-58.422963035789,,,,,,Pizza,Restaurante.jpg
+850,Niceto,Cnel. Niceto Vega 5510,-34.587218,-58.438695,,,,,,Variada,Restaurante.jpg
+851,Al fresco,Honduras 5201,-34.587381762505,-58.432070202177,,,,,,"Casera, Internacional",Restaurante.jpg
+852,El universo,Av. Córdoba 5267,-34.5898457,-58.4368158,,,,,,Internacional,Restaurante.jpg
+853,Cuatro lunas,"Bonpland ",-34.584163,-58.438255,,,,,,Porteña,Restaurante.jpg
+854,Azafrán,Honduras 5143,-34.587732849381,-58.431530552391,,,,,,Parrilla,Restaurante.jpg
+855,Esespacio,Niceto Vega 5635,-34.586532,-58.439678,,,,,,Internacional,Restaurante.jpg
+856,Dorothy parker,Costa Rica 4101,-34.59148737641,-58.420514108813,,,,,,Española,photo_3231_1.jpg-fdd235a1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+857,La Capital,Paraguay 3948,-34.588941275653,-58.418570832441,,,,,,Porteña,photo_3370_1.jpg-fdd23655-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+858,Café de las palmeras,Av. FigueroaAlcorta 3885,-34.572336,-58.410744,,,,,,Porteña,Restaurante.jpg
+859,Piada y Cassoni,"Uriarte ",-34.58537,-58.428778,,,,,,Mediterránea,photo_2510_1.jpg-fdd0aeb1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+860,Los unicos,Güemes 4403,-34.582803,-58.421943,,,,,,Porteña,Restaurante.jpg
+861,El bravo,Mario Bravo 1287,-34.59575,-58.415125,,,,,,"Norteamericana, Porteña",photo_2412_1.jpg-fdd0ae2a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+862,Kewuen's,Paraguay 3899,-34.589535132948,-58.417823776546,,,,,,Variada,photo_2442_1.jpg-fdd0ae56-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+863,Venática Usina Creativa,Bonpland 1622,-34.583996,-58.438063,,,,,,Variada,photo_4119_1.jpg-fdd40a6a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+864,Santillán,Mario Bravo 1348,-34.594843,-58.414816,,,,,,Variada,photo_4087_1.jpg-fdd40a32-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+865,Patagónica,Guatemala 5650,-34.579951,-58.432438,,,,,,Autóctona,photo_4099_1.jpg-fdd40a4a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+866,Kasura,Honduras 5318,-34.586698,-58.433081,,,,,,De Autor,Restaurante.jpg
+867,Kenara,Cabrera 4862,-34.590852330607,-58.430852404236,,,,,,Mediterránea,Restaurante.jpg
+868,Misra,Thames 1513,-34.588567132132,-58.431999471007,,,,,,Natural,photo_3513_1.jpg-fdd2aa19-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+869,A Comer (Club Ciudad Universitaria),"Intendente Güiraldes ",-34.546213,-58.438481,,,,,,Variada,photo_3591_1.jpg-fdd2aa2d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+870,El Progreso,Av. Dorrego 1484,-34.584598777095,-58.444807802896,,,,,,Porteña,photo_3606_1.jpg-fdd2aa55-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+871,Esplendor,Guatemala 4931,-34.58456413845,-58.426538391512,,,,,,De Autor,photo_3442_1.jpg-fdd2a9dd-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+872,Malabia bar,Malabia 1257,-34.59311259532,-58.430682328026,,,,,,"Francesa, Autóctona",photo_3444_1.jpg-fdd2a9e1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+873,Morfeo,Thames 1999,-34.58536,-58.426931,,,,,,Arabe,photo_6662_1.jpg-fdd45840-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+874,Zum zum,Av. Cnel. Niceto Vega 5492,-34.587371,-58.438499,,,,,,De Autor,photo_6667_1.jpg-fdd45848-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+875,A la parri...,Güemes 4098,-34.5854162,-58.4183848,,,,,,Parrilla,photo_6682_1.jpg-fdd45864-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+876,Villamorey,French 2765,-34.588827,-58.402797,,,,,,Variada,photo_6688_1.jpg-fdd45874-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+877,Di vino café,Charcas 4006,-34.586104,-58.419916,,,,,,Porteña,Restaurante.jpg
+878,Bacci,Charcas 3655,-34.588509209833,-58.416477835111,,,,,,"Pizza, Parrilla, Porteña",photo_3895_1.jpg-fdd2f840-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+879,De la Córcova,Mario Bravo 1299,-34.594597,-58.414611,,,,,,Variada,photo_6357_1.jpg-fdd431e4-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+880,Pacicus,Mario Bravo 1020,-34.599062,-58.416152,,,,,,De Autor,photo_6358_1.jpg-fdd431e8-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+881,Simple café,Godoy Cruz 1558,-34.58843,-58.435449,,,,,,"Casera, Deli",photo_6365_1.jpg-fdd431f0-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+882,Oliveto 7 culturas,Humboldt 1551,-34.5860299,-58.4366983,,,,,,Internacional,Restaurante.jpg
+883,Markus,Castex 3217,-34.5789237,-58.4040736,,,,,,Variada,Restaurante.jpg
+884,Wild Lotus,Malabia 1893,-34.5889185,-58.4242823,,,,,,"Vietnamita, Asiática, Vegetariana",wild-lotus-s8HXG-955d5bdb-2b5c-405e-84ed-3b8209c1f15e
+885,Beersel,Honduras 5299,-34.5868302,-58.4329037,,,,,,Norteamericana,Restaurante.jpg
+886,Croque Madame,Av. Raúl Scalabrini Ortiz 3195,-34.580049,-58.40967,,,,,,Francesa,Restaurante.jpg
+887,Music Shaker Bar & Grill,Fitz Roy 1727,-34.5839821,-58.4359913,,,,,,"Casera, Porteña",Restaurante.jpg
+888,CASA FERONA,PARAGUAY 4539,-34.5842535,-58.424592,,,,,,Norteamericana,casa-ferona-szvzA-615b300a-25ee-4969-bd47-7ba0ec672e49
+889,COVA Craft Beer,AREVALO 1325,-34.5843491,-58.4442769,,,,,,variada,cova-craft-beer-9BqKX-cfe15759-7bce-44b6-99cf-398089b6176d
+890,Oliveira Cocina de Herencia,Jorge Luis Borges 1975,-34.5863929,-58.4262191,,,,,,"De Autor, Pizza, Casera",oliveira-cocina-de-herencia-VZoMl-c8272779-e4f2-49b5-b469-0b819dc6f6dd
+891,Club Lucero,Nicaragua 6048,-34.5781403,-58.4381569,,,,,,"Norteamericana, Vegetariana, Casera",club-lucero-WBo9I-3cb70ad2-e877-4360-9450-fef63be4413a
+892,Blest Palermo,Gorriti 4857,-34.5901935,-58.4297841,,,,,,variada,blest-palermo-qTjfQ-222fe9cd-a21b-4fa3-878d-e3fb7db568ad
+893,Kiboo Sake Bar,Honduras 5248,-34.5872621,-58.4325932,,,,,,"Japonesa Sushi, De Autor",kiboo-sake-bar-qXSeT-dd09f87d-ee22-4c9c-8ecb-200610bed87b
+894,Café Registrado,Costa Rica 5901,-34.5801726,-58.4377691,,,,,,Mediterránea,Restaurante.jpg
+895,Enjoy Alchemy,Humboldt 1923,-34.5832488,-58.4334014,,,,,,variada,Restaurante.jpg
+896,Erik Bar,Honduras 5098,-34.5881103,-58.4310936,,,,,,Internacional,Restaurante.jpg
+897,Krämer Bierhaus,Uriarte 1411,-34.5886749,-58.4338099,,,,,,Alemana,Restaurante.jpg
+898,Suspiria Resplendoris,Nicaragua 4346,-34.5900866,-58.422936,,,,,,De Autor,Restaurante.jpg
+899,J.W. Bradley Ltd,Godoy Cruz 1875,-34.586355,-58.432074,,,,,,"De Autor, Norteamericana",Restaurante.jpg
+900,Hell´s Pizza,Humboldt 1654,-34.585119,-58.4357403,,,,,,Pizza,hell-s-pizza-80tuZ-6751e0cc-dcf5-4119-aa12-9d14a6d5abe8
+901,Rey del Vino,Paraguay 5001,-34.5806891,-58.4291276,,,,,,"Pescados Y Mariscos, Parrilla, Porteña",rey-del-vino-1dosr-044e63ac-b1fe-4de5-bdd1-e2bf2e2e1787
+902,Café cappello,Aráoz 2926,-34.5830301,-58.4111172,,,,,,De Autor,photo_12608_1.jpg-fdd65431-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+903,Ben,Serrano 1338,-34.5905242,-58.4329592,,,,,,"Porteña, Internacional",Restaurante.jpg
+904,Danilas,José Antonio Cabrera 4802,-34.591378,-58.4302932,,,,,,"Mediterránea, Pizza",Restaurante.jpg
+905,Adentro dinner club (a puertas cerradas),"Oro y Costa Rica ",-34.585603794234,-58.43000292778,,,,,,"Parrilla, Casera",Restaurante.jpg
+906,Whatever,Costa Rica 5722,-34.5817104,-58.4359085,,,,,,Natural,Restaurante.jpg
+907,La reina dulce,Armenia 1998,-34.5874712,-58.4243142,,,,,,Casera,Restaurante.jpg
+908,Sa ciara,Gurruchaga 1806,-34.5880063,-58.4271544,,,,,,Porteña,Restaurante.jpg
+909,Industria argentina,Cnel. Niceto Vega Av. 5500,-34.5873371,-58.4385184,,,,,,Parrilla,Restaurante.jpg
+910,Rafaelo's resto,Ravigniani 1602,-34.5825392,-58.4403197,,,,,,Variada,photo_10762_1.jpg-fdd5de9d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+911,Asturias,José Antonio Cabrera 6002,-34.5826618,-58.4423597,,,,,,"Española, Italiana, Porteña",photo_10778_1.jpg-fdd5dead-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+912,Mi mundito,Borges 1766,-34.587615,-58.4285,,,,,,Variada,Restaurante.jpg
+913,Kuantum,El Salvador 5567,-34.5835908,-58.4350967,,,,,,Variada,Kuantum-11348-390bb262-a549-bff8-d563-56d05dd98d39
+914,Almodobar,Bonpland 1905,-34.581836,-58.435626,,,,,,"Pizza, Japonesa Sushi, Porteña",Restaurante.jpg
+915,Panini porteño,Del Libertador Av. 4502,-34.5667594,-58.4312695,,,,,,Porteña,Restaurante.jpg
+916,Café - café,Gorriti 4918,-34.5899165,-58.4304242,,,,,,"Porteña, Natural",Restaurante.jpg
+917,Che Lulú,Pasaje Emilio Zolá 5185,-34.5831617,-58.4290167,,,,,,De Autor,Restaurante.jpg
+918,Artaud,José Antonio Cabrera 3802,-34.5965188,-58.4199807,,,,,,"De Autor, Francesa, Italiana",Restaurante.jpg
+919,Busshido rock,Bondpland 1411,-34.5858635,-58.4402665,,,,,,"Parrilla, Pizza",Restaurante.jpg
+920,Richard´s bar,Fitz Roy 2192,-34.5803767,-58.4320548,,,,,,Variada,Restaurante.jpg
+921,Vertigo,Guemes 4400,-34.5828411,-58.421919,,,,,,Variada,Restaurante.jpg
+922,Naomi,Serrano 1444,-34.5897535,-58.43177,,,,,,Variada,Restaurante.jpg
+923,Hatrick Bar & Lounge,Honduras 5549,-34.5844925,-58.4358199,,,,,,Variada,Restaurante.jpg
+924,Setas de Cardo,Humboldt 1855,-34.5837054,-58.4340782,,,,,,"Natural, Vegetariana",Restaurante.jpg
+925,Rogelio Bistro-Bar,Gascón 1460,-34.5933031,-58.4227816,,,,,,Variada,Restaurante.jpg
+926,Compañia de Chocolates,Beruti 4634,-34.5774795,-58.4246884,,,,,,Variada,Restaurante.jpg
+927,Nix Bistró,Bonpland 1515,-34.584829,-58.4390188,,,,,,De Autor,Restaurante.jpg
+928,Gelateria Cibiana,República Árabe Siria 3045,-34.580442,-58.4133478,,,,,,Variada,Restaurante.jpg
+929,Ludovico,Gorriti 4098,-34.5953017,-58.4229568,,,,,,De Autor,Restaurante.jpg
+930,El zaguan,Av. Dorrego 2212,-34.5775216,-58.4386461,,,,,,Mediterránea,Restaurante.jpg
+931,Viveverde,Mansilla 3500,-34.5917346,-58.4137421,,,,,,Natural,Restaurante.jpg
+932,Hilda bistró,Sinclair 3136,-34.5736579,-58.4227863,,,,,,Casera,photo_13662_1.jpg-fdd6a265-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+933,Mudra,Av. Córdoba 4041,-34.5974304,-58.4239452,,,,,,Casera,Restaurante.jpg
+934,Violeta pastelería,Bulnes 2552,-34.5825821,-58.4069135,,,,,,Deli,Restaurante.jpg
+935,Piacere,Billinghurst 2178,-34.586533,-58.4068108,,,,,,"Italiana, Pizza",Restaurante.jpg
+936,Farfolla crepes & arepas,Malabia 1885,-34.589001,-58.424365,,,,,,"Latinoamericana, Porteña",Restaurante.jpg
+937,La tolva,Güemes 3199,-34.5912173,-58.4098615,,,,,,Porteña,Restaurante.jpg
+938,Laguna negra,Cabello 3181,-34.582062,-58.4064244,,,,,,Porteña,Restaurante.jpg
+939,PODESTA BAR,ARMENIA 1740,-34.5890986,-58.4268157,,,,,,"Norteamericana, Mexicana, Italiana",podesta-bar-htUwf-25e7cae0-72e0-4c15-925a-0c77ae225190
+940,Casa Munay,Scalabrini Ortiz 2018,-34.5884539,-58.421264,,,,,,Vegetariana,casa-munay-DIXG8-e6bcf7d3-00a8-4f13-9bac-83ff6513ea21
+941,ARTISAN,HONDURAS 3993,-34.5939417,-58.4194679,,,,,,Mediterránea,artisan-YlIws-1cacb9a0-76a1-48da-bd7c-35be5f3af0ba
+942,LA MOLINA TRATTORIA,GORRITI 5806,-34.5833592,-58.4395052,,,,,,"Pescados Y Mariscos, Parrilla, Casera",la-molina-trattoria-fZHG5-49bdbda0-491d-451b-9455-67e449aed4b1
+943,just beer,costa rica 4818,-34.5872916,-58.4284807,,,,,,Mexicana,just-beer-cJOuR-75185d6e-a9b5-4c14-83cb-82bff8e20667
+944,Open 24hs,Serrano 1598,-34.5889226,-58.430347,,,,,,"Pizza, Internacional",open-24hs-Wcm3M-6c5e407a-e8c9-4322-9e9a-69cca7624f5e
+945,Almacén de Pizzas,Malabia 1825,-34.5893639,-58.4246135,,,,,,"Italiana, Pizza",Restaurante.jpg
+946,El Club de la Milanesa,Scalabrini Ortiz 3190,-34.579983,-58.4099009,,,,,,Argentina,Restaurante.jpg
+947,PL Deli,Gorriti 6046,-34.581388,-58.441911,,,,,,Vegetariana,Restaurante.jpg
+948,Presly Bar,Costa Rica 5545,-34.583067,-58.4341501,,,,,,"Norteamericana, Pizza",Restaurante.jpg
+949,Chicken Bros,Thames 1795,-34.586812,-58.429148,,,,,,Norteamericana,chicken-bros-Ar1CI-5b42ce8c-25c8-4bd7-9c40-8cb792eb4fe3
+950,Parque Bar Botánico,Thames 1472,-34.5888539,-58.4325812,,,,,,De Autor,Restaurante.jpg
+951,Bretonia Soho,José Antonio Cabrera 4946,-34.5904539,-58.4319191,,,,,,De Autor,Restaurante.jpg
+952,Lo de Cholo,Cabrera 5187,-34.5888269,-58.433678,,,,,,Pizza,Restaurante.jpg
+953,Tesla,Gorriti 5801,-34.5831621,-58.4393181,,,,,,variada,tesla-yi14J-c41d5c96-1806-44cf-a833-183bd856f800
+954,Mendieta,Arce 460,-34.5702326,-58.4320814,,,,,,Casera,Restaurante.jpg
+955,Be Sushi,Las Heras 2902,-34.583613,-58.4021659,,,,,,Japonesa Sushi,Restaurante.jpg
+956,The Lunch House,Fitz Roy 1970,-34.581931,-58.433899,,,,,,Japonesa Sushi,Restaurante.jpg
+957,Black Hat Bistro,Gurruchaga 1335,-58.4320712,-34.5911846,,,,,,De Autor,Restaurante.jpg
+958,Tipico Buenos Aires,Jose Antonio Cabrera 4223,-34.5954001,-58.4248769,,,,,,"Variada, Casera",Restaurante.jpg
+959,Salta la Llama,Gurruchaga 1450,-34.590314,-58.430759,,,,,,Peruana,Restaurante.jpg
+960,5090 Bistrot,Honduras 5090,-34.5881767,-58.4310728,,,,,,Variada,Restaurante.jpg
+961,Punto Pizza,Paraguay 3779,-34.5905914,-58.4166157,,,,,,Pizza,Restaurante.jpg
+962,Varela Varelita,Av. Raúl Scalabrini Ortiz 2102,-34.5876529,-58.420148,,,,,,Variada,Restaurante.jpg
+963,Cafeto,Güemes 4299,-34.583331,-58.421231,,,,,,Variada,Restaurante.jpg
+964,Don Nikola,"Moisés Lebensohn ",-34.664406,-58.379009,,,,,,Variada,Restaurante.jpg
+965,Lautrec,Acuña de Figueroa 1100,-34.598118454781,-58.421833432203,,,,,,Variada,Restaurante.jpg
+966,Grow,Niceto Vega 5642,-34.592269,-58.426927,,,,,,Variada,Restaurante.jpg
+967,Confiteria ideal,Suipacha 380/84,-34.603783,-58.379442,,,,,,Variada,Restaurante.jpg
+968,Morato,Guatemala 4602,-34.587014,-58.423621,,,,,,Variada,Restaurante.jpg
+969,El bar de pepe,"PRUEBA ",0,0,,,,,,Variada,Restaurante.jpg
+970,Café monet,Quintana 400,-38.0265113,-57.5376986,,,,,,Variada,Restaurante.jpg
+971,New port,Junin 1715,-34.5891025,-58.3928132,,,,,,Variada,Restaurante.jpg
+972,Henri,Borges 2095,-34.5856026,-58.4253961,,,,,,Variada,Restaurante.jpg
+973,R9 Road Café,Colectora Este 2485,-34.3805884,-58.7504236,,,,,,Variada,Restaurante.jpg
+974,Azucar,Córdoba Av. 4175,-34.596635,-58.4258732,,,,,,Variada,Restaurante.jpg
+975,Adann,José Hernandez 2345,-34.5653908,-58.4527414,,,,,,Variada,Restaurante.jpg
+976,Lux,Fitz Roy 1941,-34.5822926,-58.4341508,,,,,,Variada,Restaurante.jpg
+977,Piacere,San Martin 679,0,0,,,,,,Variada,Restaurante.jpg
+978,Carla Pervanas,Humboldt 1981,-34.5826848,-58.4327643,,,,,,Internacional,Restaurante.jpg
+979,Brooklyn Bar,Costa Rica 4588,-34.5889131,-58.4260504,,,,,,Internacional,Restaurante.jpg
+980,Freddo,Av. Luis María Campos 901,-34.5683266,-58.4373829,,,,,,Porteña,Restaurante.jpg
+981,Freddo,Av. Santa Fe 3856,-34.584023,-58.417842,,,,,,Porteña,Restaurante.jpg
+982,Más54.Bar,Av. Luis María Campos 405,-34.572627,-58.4334922,,,,,,De Autor,mas54bar-o80yf-217dfa50-ca81-e0e9-4672-57587812eecc
+983,Sanusa,Martínez Rosas 1065,-34.5991264,-58.4492194,,,,,,Autóctona,Restaurante.jpg
+984,Capitán Burger,Nicaragua 5701,-34.580735,-58.434471,,,,,,Variada,capitan-burger-9sa8h-da2c1f8b-a6c8-b8f0-ac93-565f19eb9afc
+985,Café Antillano Cachao,Honduras 5640,-34.5838659,-58.4367056,,,,,,Latinoamericana,Restaurante.jpg
+986,La sala,S. M. Spiro 1051,-34.7420198,-58.5698098,,,,,,Variada,Restaurante.jpg
+987,Circa,Mitre 1101,-34.7977617,-58.3923807,,,,,,Variada,Restaurante.jpg
+988,Dragón,Av. H. Yrigoyen 13200,-34.8086594,-58.4019658,,,,,,Variada,Restaurante.jpg
+989,Lobby,Leandro Rosales 1568,-34.798987,-58.386192,,,,,,Variada,Restaurante.jpg
+990,Mana bar,Av. Espora 885,-34.8001463,-58.3887775,,,,,,Variada,Restaurante.jpg
+991,Cluster pub,Av Hipolito Yrigoyen 14748,-34.8254603,-58.3971679,,,,,,Variada,Restaurante.jpg
+992,La nueva reserva,Av. Hipólito Yrigoyen 17383,-34.8526691,-58.3952636,,,,,,Variada,Restaurante.jpg
+993,Benazzi,Cnel. Dorrego 128,-34.5971512,-58.4545513,,,,,,Variada,Restaurante.jpg
+994,El carguero club de bar,Roca 1191,-38.0193805,-57.5430079,,,,,,Variada,Restaurante.jpg
+995,Lucinda,México 3552,-34.619781,-58.415931,,,,,,Variada,Restaurante.jpg
+996,Rocket Bar & Music,Rodriguez Peña 1027,-34.596847,-58.391838,,,,,,Variada,Restaurante.jpg
+997,Chupitos,Bonpland 1670,-34.583595,-58.437636,,,,,,Variada,Restaurante.jpg
+998,Mercado del Bajo,Juan Bautista de Lasalle 437,-34.4661299,-58.5079618,,,,,,Variada,Restaurante.jpg
+999,Mamita bar,Av Alvarez Thomas 487,-34.580909,-58.449902,,,,,,Variada,Restaurante.jpg
+1000,Tienda de Café,Av. Raúl Scalabrini Ortiz 2798,-34.5834943,-58.413385,,,,,,Porteña,Restaurante.jpg
+1001,El punto bar,Directorio Av 702,-34.6285188,-58.4371631,,,,,,Variada,Restaurante.jpg
+1002,5033,Balcarce 749,-34.6166365,-58.3702979,,,,,,Variada,Restaurante.jpg
+1003,Mythos,Niceto Vega 5662,-34.5862895,-58.4399881,,,,,,Variada,Restaurante.jpg
+1004,Yuppies,Videla 338,-34.7918741,-58.2482341,,,,,,Variada,Restaurante.jpg
+1005,El galpón resto bar,Libertador Av. 17154,-34.5360106,-58.4667339,,,,,,Variada,Restaurante.jpg
+1006,Arevalo al fondo,Arévalo 3031,-34.5710179,-58.4302606,,,,,,Variada,Restaurante.jpg
+1007,Brandy Lounge,Roque Sáenz Peña 1156,-34.5079009,-58.4882113,,,,,,Variada,Restaurante.jpg
+1008,Influencia,Leandro N. Alem 267,-34.640641,-58.568398,,,,,,Variada,Restaurante.jpg
+1009,Galería el patio del liceo,Santa Fe Av. 2729,-34.5931244,-58.4053825,,,,,,Variada,Restaurante.jpg
+1010,Especial video,Córdoba Av. 4391,-34.5955621,-58.4279615,,,,,,Variada,Restaurante.jpg
+1011,Groove,Santa Fe Av. 4389,-34.5797056,-58.4232665,,,,,,Variada,Restaurante.jpg
+1012,La barceloneta,Bolívar 591,-34.6147966,-58.3732226,,,,,,Variada,Restaurante.jpg
+1013,Edelweiss,De Mayo Av. 101,-34.641735,-58.565501,,,,,,Variada,Restaurante.jpg
+1014,Maceo,Aipurua 2936,-34.5747342,-58.4980188,,,,,,Variada,Restaurante.jpg
+1015,Brook,Juan B. Justo Av. 1574,-34.5858821,-58.4354493,,,,,,Variada,Restaurante.jpg
+1016,Club 74,Figueroa Alcorta Av. 7474,-34.5469327,-58.4478411,,,,,,Variada,Restaurante.jpg
+1017,Caroline,Pres. Juan Domingo Perón Av. 177,-34.6382836,-58.5673862,,,,,,Variada,Restaurante.jpg
+1018,Nitro,Pres. Juan Domingo Perón Av. 141,-34.6382702,-58.567084,,,,,,Variada,Restaurante.jpg
+1019,Brako,Leandro N. Alem 283,-34.640684,-58.5669579,,,,,,Variada,Restaurante.jpg
+1020,Bar rock encuentro,Brig. Gral. Juan Manuel de Rosas 41,-34.6037232,-58.3815931,,,,,,Variada,Restaurante.jpg
+1021,Amelia´s,Córdoba Av. 2550,-34.5987996,-58.40307,,,,,,Variada,Restaurante.jpg
+1022,A lo de gero,Pres. Juan Domingo Perón Av. 451,-34.6383774,-58.5717625,,,,,,Variada,Restaurante.jpg
+1023,Dollar train,Av. Rivadavia 14727,-34.6006393,-58.370533,,,,,,Variada,Restaurante.jpg
+1024,Bar la barra (Hotel Boca),Tacuarí 243,-34.6111118,-58.3791001,,,,,,Variada,Restaurante.jpg
+1025,En Borges Beach,Borges 1637,-34.5886142,-58.4298114,,,,,,Variada,Restaurante.jpg
+1026,Geek,Garibaldi 287,-34.7229323,-58.2544974,,,,,,Variada,Restaurante.jpg
+1027,El trébol,Av. Bartolome Mitre 945,-34.6562283,-58.7645833,,,,,,Variada,Restaurante.jpg
+1028,El trébol,"Ruta 8 y 197 ",-34.4454365,-58.7636357,,,,,,Variada,Restaurante.jpg
+1029,Thaler,Machado 970,-34.64639,-58.622156,,,,,,Variada,Restaurante.jpg
+1030,El trébol,Tucumán 50,-36.8541489,-58.2117292,,,,,,Variada,Restaurante.jpg
+1031,Tear,Báez 340,-34.5718179,-58.4315858,,,,,,Variada,Restaurante.jpg
+1032,L'Arc,Niceto Vega 5450,-34.5874755,-58.4383124,,,,,,Variada,Restaurante.jpg
+1033,Vera Wines,Av. de Mayo 769,-34.5971553,-58.3888017,,,,,,Variada,Restaurante.jpg
+1034,Ludovico,"Lacroze ",-34.6359825,-58.5831986,,,,,,Variada,Restaurante.jpg
+1035,Babel,Salta 168,-34.6105372,-58.3833556,,,,,,Variada,Restaurante.jpg
+1036,Paradigma,Armenia 1414,-34.591219281363,-58.430095833249,,,,,,"Española, De Autor",photo_1868_1.jpg-fdcfc40a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1037,Oveja descarriada,Araoz 1047,-34.595328,-58.4298899,,,,,,Porteña,Restaurante.jpg
+1038,Espacio renata,Malabia 1835,-34.589190751528,-58.424763988515,,,,,,Internacional,Restaurante.jpg
+1039,Mundaka,Fitz Roy 1901,-34.582602674928,-58.434609989377,,,,,,Española,Restaurante.jpg
+1040,Popea,Soler 1795,-34.587452,-58.424282,,,,,,Arabe,Restaurante.jpg
+1041,Nuevo guise,Guise 1902,-34.590949438558,-58.413130257246,,,,,,"Casera, Española",photo_2177_1.jpg-fdd03a32-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1042,Yeye's,Córdoba Av. 4901,-34.591967783768,-58.433416318847,,,,,,Porteña,Restaurante.jpg
+1043,Lo de Uriarte,Uriarte 1181,-34.590255751958,-58.436295085773,,,,,,Porteña,photo_2349_1.jpg-fdd087c2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1044,La pizza de Noe,Córdoba Av. 5087,-34.590813577092,-58.435157138535,,,,,,Pizza,Restaurante.jpg
+1045,Villa malcolm,Av. Córdoba 5064,-34.590959191923,-58.434936986519,,,,,,"Española, Italiana",photo_2367_1.jpg-fdd087d6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1046,Ocho y medio,"El Salvador ",-34.581665,-58.43747,,,,,,Internacional,Restaurante.jpg
+1047,Zapi,Corrientes Av. 4598,-34.590618,-58.448746,,,,,,Pizza,photo_7768_1.jpg-fdd4f4eb-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1048,Peli Bar,Mario Bravo 1286,-34.59473,-58.414705,,,,,,Porteña,photo_7640_1.jpg-fdd4f47e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1049,Ricordi,Billinghurst 1567,-34.592468,-58.411769,,,,,,Variada,photo_7641_1.jpg-fdd4f482-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1050,Give resto - bar,Fitz Roy 1730,-34.583918,-58.436043,,,,,,Variada,photo_7663_1.jpg-fdd4f48e-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1051,Mosaik bar para chicos,Cabello 3350,-34.581544,-58.408175,,,,,,Variada,Restaurante.jpg
+1052,China deli,Jerónimo Salguero 3172,-34.575603,-58.40403,,,,,,China,Restaurante.jpg
+1053,Kiuri suchi bar,"Thames 824 ",-34.593145,-58.439456,,,,,,Japonesa Sushi,Restaurante.jpg
+1054,Corigliano,Guatemala 5687,-34.579613,-58.432844,,,,,,"Pizza, Porteña",Restaurante.jpg
+1055,Nisshoku,Sinclair 3102,-34.57394,-58.422952,,,,,,"Peruana, Japonesa Sushi",Restaurante.jpg
+1056,Famaez,Malabia 1720,-34.590009,-58.425875,,,,,,De Autor,Restaurante.jpg
+1057,Born to be bar,José Antonio Cabrera 4667,-34.59242,-58.428786,,,,,,"Casera, Pizza",Restaurante.jpg
+1058,1914 Restaurante,Honduras 4770,-34.590273,-58.427829,,,,,,"Casera, Parrilla",Restaurante.jpg
+1059,Elargen,José Antonio Cabrera 5083,-34.589459,-58.43292,,,,,,"Porteña, De Autor",Restaurante.jpg
+1060,Diks,Mario Bravo 1067,-34.597123,-58.415667,,,,,,Porteña,photo_6906_1.jpg-fdd4a6ca-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1061,Terra,Santa Fé Av. 2396,-34.594796,-58.401061,,,,,,Porteña,photo_6907_1.jpg-fdd4a6ce-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1062,Phlox,Soler 4489,-34.588328,-58.423111,,,,,,Variada,photo_6922_1.jpg-fdd4a6e1-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1063,Mistykall roots,José Antonio Cabrera 5100,-34.589378,-58.43309,,,,,,Porteña,Restaurante.jpg
+1064,La cantinita,Armenia 1212,-34.592696,-58.432253,,,,,,Variada,Restaurante.jpg
+1065,Look café,Av. Santa Fé 4085,-34.58192,-58.420608,,,,,,Variada,photo_8158_1.jpg-fdd51bc2-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1066,Peters hot dog,Honduras 4872,-34.58958,-58.428928,,,,,,Variada,photo_8166_1.jpg-fdd51bc6-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1067,Warm up resto bar,José Antonio Cabrera 3780,-34.596542,-58.419708,,,,,,Pizza,Restaurante.jpg
+1068,Descanso,Acuña de Figueroa 1653,-34.5921297,-58.4206338,,,,,,Porteña,photo_6783_1.jpg-fdd47efc-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1069,Crash,Honduras 5490,-34.584981,-58.43524,,,,,,Porteña,Restaurante.jpg
+1070,Yoco´s,Humboldt 1864,-34.58363,-58.434039,,,,,,De Autor,Restaurante.jpg
+1071,Cultivarte,Honduras 4761,-34.5903,-58.427711,,,,,,"Casera, Deli",photo_9254_1.jpg-fdd542ed-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1072,Own lounge,Cabrera 5556,-34.586057,-58.437687,,,,,,Variada,Restaurante.jpg
+1073,Froilan,Gorriti 4702,-34.591425,-58.428089,,,,,,Variada,Restaurante.jpg
+1074,Malouva,Thames 2501,-34.5812085,-58.4217102,,,,,,Variada,photo_8716_1.jpg-fdd54262-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1075,Los perros románticos,Honduras 5392,-34.586069,-58.433912,,,,,,"Española, Porteña",photo_7847_1.jpg-fdd4f53a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1076,Re Juan,Godoy Cruz 1885,-34.586289,-58.431962,,,,,,Porteña,photo_7872_1.jpg-fdd4f54a-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1077,Pizzería danis,Paraguay 3960,-34.588904,-58.418783,,,,,,Pizza,Restaurante.jpg
+1078,Aires del lago,Av. Figueroa Alcorta 5575,-34.560398,-58.425907,,,,,,"Parrilla, Casera",Restaurante.jpg
+1079,Bitter,Uriarte 1657,-34.587101,-58.431508,,,,,,Porteña,photo_10182_1.jpg-fdd5909d-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1080,Ghi-da,Córdoba Av. 4999,-34.591441,-58.434337,,,,,,Variada,Restaurante.jpg
+1081,La nueva Azzurra,Cabrera 5115,-34.5892489,-58.4332041,,,,,,Mediterránea,Restaurante.jpg
+1082,La Fiaca,Fitz Roy 1663,-34.584453,-58.4366056,,,,,,Variada,Restaurante.jpg
+1083,8 Milímetros,Gorriti 5535,-34.585284832332,-58.436555802744,,,,,,Mediterránea,photo_1609_1.jpg-fdcf75ba-f4e4-11e4-be7b-d3500e263ce1_s0.jpg
+1084,La Godoy Cervecería,Godoy Cruz 1725,-34.5873727,-58.4336099,,,,,,"Argentina, Pizza",Restaurante.jpg
+1085,Il ballo del mattone,Gorriti 5737,-34.5838259,-58.4386312,,,,,,Variada,Restaurante.jpg
+1086,White (Hotel Madero),Rosario Vera Peñaloza 360,-34.6179524,-58.362298,,,,,,Variada,Restaurante.jpg
+1087,HOBBS,AV. CORDOBA 3601,-34.5978003,-58.41729,,,,,,"Autóctona, Mediterránea, Pizza",Restaurante.jpg
+1088,Jolie Bistro Moderno,Gorriti 5641,-34.5845629,-58.437502,,,,,,variada,Restaurante.jpg
+1089,1516 Cervecería,Jose Antonio Cabrera 5225,-34.588483,-58.4342433,,,,,,variada,Restaurante.jpg
+1090,Afrodita,Perú 425,-34.6129402,-58.3747203,,,,,,Variada,Restaurante.jpg
+1091,Maja bar,Macías 589,-34.7971178,-58.391535,,,,,,Variada,Restaurante.jpg
+1092,Destyno,Macías 627,-34.7975491,-58.3911971,,,,,,Variada,Restaurante.jpg
+1093,La Tribu,Lambaré 873,-34.6046334,-58.4304737,,,,,,Variada,Restaurante.jpg
+1094,Santana bar,Pres. Juan Domingo Perón Av. 414,-34.6383742,-58.5712919,,,,,,Variada,Restaurante.jpg
+1095,Moon,Fitz Roy 1645,-34.5846132,-58.4367094,,,,,,Variada,moon-07doi-ca870620-19d2-4d30-f6fd-564f5faa843d
+1096,Bar rock encuentro,Dr. Ignacio Arieta Av. 3686,0,0,,,,,,Variada,Restaurante.jpg
+1097,Freddo,Av. Raúl Scalabrini Ortiz 3205,-34.579969,-58.409955,,,,,,Porteña,Restaurante.jpg
+1098,La Dolfina Polo Bar,Av. Pres. Figueroa Alcorta 3301,-34.5777409,-58.4026238,,,,,,variada,Restaurante.jpg
+1099,Led bar,Av. Monroe 3800,-34.5666646,-58.4733491,,,,,,Variada,Restaurante.jpg
+1100,The Coffee Store,República Dominicana 3396,-34.5907201,-58.4140237,,,,,,Variada,Restaurante.jpg
+1101,Cero cero siete,Pres. Juan Domingo Perón Av. 2754,-34.6382627,-58.5668509,,,,,,Variada,Restaurante.jpg
+1102,KOI Dumplings,MINISTRO JUSTINIANO CARRANZA 1591,-34.5835649,-58.4393685,,,,,,Sudeste Asiático,koi-dumplings-kE5k2-2a668c1c-2432-4129-b94d-5f8908e20d3b
+1103,Freddo Lafinur,Av. del Libertador 3164,-34.5761792,-58.4122715,,,,,,Porteña,Restaurante.jpg
+1104,Cyrano,Pres. Juan Domingo Perón Av. 173,-34.6382788,-58.5672628,,,,,,Variada,Restaurante.jpg
+1105,Libario Bar,Julián Alvarez 1315,-34.5941419,-58.4260512,,,,,,Variada,Restaurante.jpg
+1106,Liv,Darwin 1550,-34.586793,-58.4357149,,,,,,Variada,Restaurante.jpg
+1107,Nikkósushi,Av. Alvarez Thomas 2310,-34.577584,-58.473899,,,,,,Variada,Restaurante.jpg
+1108,Dario Gualtieri Bistro,Armenia 1378,-34.591564,-58.430649,,,,,,De Autor,dario-gualtieri-bistro-28lTF-30830145-5e76-4af7-ad50-8ad20dd01a58
+1109,Pacífica - Bar de mar,Thames 1402,-34.5893413,-58.4330892,,,,,,variada,Restaurante.jpg
+1110,Distrito Federal,Honduras 5608,-34.5840619,-58.436516,,,,,,variada,Restaurante.jpg
+1111,Mendieta restó bar,Echeverría 1050,-34.554666,-58.441906,,,,,,Variada,Restaurante.jpg
+1112,I Love Arepa,El Salvador 4101,-34.5927503,-58.4208144,,,,,,Colombiana,i-love-arepa-g7hwr-5e49b680-a825-355f-40a0-56f047c24162
+1113,NYX,Av. Hipólito Yrigoyen 16651,-34.8477435,-58.3988796,,,,,,Variada,Restaurante.jpg
+1114,Chapa,Ruta 28 Km 7.5,-34.608788,-58.9516336,,,,,,Variada,Restaurante.jpg
+1115,Afiches,Perón Av. 3000,-34.6423199,-58.4594195,,,,,,Variada,Restaurante.jpg
+1116,Le Ble,Honduras 4109,-34.5940228,-58.4211652,,,,,,Francesa,Restaurante.jpg
+1117,Peteco's,Av. Hipólito Yrigoyen 13233,-34.8090097,-58.4019016,,,,,,Variada,Restaurante.jpg
+1118,T.ppan,Av. Santa Fe 2939,-34.591381,-58.407283,,,,,,Variada,Restaurante.jpg
+1119,ANTICHE TENTAZIONI,HONDURAS 4770,-34.5903177,-58.4279263,,,,,,Italiana,antiche-tentazioni-VBuYC-aa70d4e8-000a-44e0-bc74-87900ad801d3
+1120,Cervecería Falkner,Av. 44 2049,-34.9467354,-57.9947777,,,,,,Variada,Restaurante.jpg
+1121,Insomnio,Pres. Juan Domingo Perón Av. 57,-34.6381393,-58.5656643,,,,,,Variada,Restaurante.jpg
+1122,La Silla Electrica,Av. Santa Fe 2729,-34.5929824,-58.4053839,,,,,,variada,Restaurante.jpg
+1123,In bar,Guatemala 4778,-34.5858147,-58.4252449,,,,,,Variada,Restaurante.jpg
+1124,Reyes club,Pres. Juan Domingo Perón Av. 2233,-35.0056092,-58.4005027,,,,,,Variada,Restaurante.jpg

@@ -14,15 +14,24 @@ Es un modelo de inteligencia artificial basado en el sistema de clasificación K
 Está realizado con el lenguaje de programación Python. Funciona con una sola pagina que muestra el formulario para ingresar los datos anteriormente mencionados con el objetivo de realizar la búsqueda mostrando el resultado en la misma pagina.
 
 
-# Ejemplo de lo realizado en colab.
-![imag_1](/static/media/imag_1.jpg)
+# Ejemplo de algunos códigos realizados en colab.
 
-![imag_2](/static/media/imag_2.jpg)
+# Convirtiendo los valores string  de las columnas franja_horaria, dia_delito, mes_delito en formato numérico.
+s = pd.Series(df2['franja_horaria'])
+df2['franja_horaria'] = pd.to_numeric(s, errors='coerce')
 
-![imag_3](/static/media/imag_3.jpg)
+# Para contar cuántos tipos de delitos suceden por barrio.
+df4_grupo = df4.groupby(['barrio'])['tipo_delito'].value_counts()
 
-![imag_4](/static/media/imag_4.jpg)
+# Una vez los valores listos se ingresan en las variables para entrenar modelo.
+X = df7.drop('Tipo_Delito', axis=1).values
+y = df7['Tipo_Delito'].values
 
+# Obtener la salida según el modelo base
+random_model = RandomBaseModel()
+random_model.fit(X_train, y_train)
+y_hat_base = random_model.predict(X_test)
+random_model.classes_
     
 # Muchas gracias!
 Cualquier duda o sugerencia pueden contartarse con Johana Rangel al mail johanarangeldo@gmail.com 

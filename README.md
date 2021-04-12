@@ -14,14 +14,14 @@ Es un modelo de inteligencia artificial basado en el sistema de clasificación K
 Está realizado con el lenguaje de programación Python. Funciona con una sola pagina que muestra el formulario para ingresar los datos anteriormente mencionados con el objetivo de realizar la búsqueda mostrando el resultado en la misma pagina.
 
 
-# Ejemplo de lo realizado en colab programa.
-![imag_1](/static/media/imag_1.png)
+# Ejemplo de lo realizado en colab.
+![imag_1](/static/media/imag_1.PNG)
 
-![imag_2](/static/media/imag_2.png)
+![imag_2](/static/media/imag_2.PNG)
 
-![imag_3](/static/media/imag_3.png)
+![imag_3](/static/media/imag_3.PNG)
 
-![imag_4](/static/media/imag_4.png)
+![imag_4](/static/media/imag_4.PNG)
 
     
 # Muchas gracias!

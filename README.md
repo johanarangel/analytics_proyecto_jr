@@ -15,13 +15,13 @@ Está realizado con el lenguaje de programación Python. Funciona con una sola p
 
 
 # Ejemplo de lo realizado en colab programa.
-![logo_permiso](/static/media/imag_1.jpg)
+![imag_1](/static/media/imag_1.jpg)
 
-![logo_permiso](/static/media/imag_2.jpg)
+![imag_2](/static/media/imag_2.jpg)
 
-![logo_permiso](/static/media/imag_3.jpg)
+![imag_3](/static/media/imag_3.jpg)
 
-![logo_permiso](/static/media/imag_4.jpg)
+![imag_4](/static/media/imag_4.jpg)
 
     
 # Muchas gracias!

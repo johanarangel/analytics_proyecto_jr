@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv = "X-UA-Compatible" content = "ie = edge">
+    <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    
+    <meta name = " viewport " content = " widht = device - widht, initial- scale = 1.0 ">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style/index.css') }}">
+    <link rel="stylesheet" href="../static/style/index.css" type="text/css">
+
+    <link rel="shortcut icon" href="{{url_for('static', filename='media/delitos.ico')}}">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style/fonts/style.css') }}">
+    <link rel="stylesheet" href="../static/style/fonts/style.css" type="text/css">
+    <title>Predición de delitos. Data Anaytics Python</title>
+</head>
+<body>
+    <!-- <cabecera"> -->
+    <main>
+        <div class="box-1">
+            <center>
+                <div class="container-4">
+                    <h1>Bienvenido<span class="icon-hand" style="font-size: 150%; color: rgba(72, 75, 78, 0.877);"></span></h1>
+                    
+                </center>
+        </div>
+    </main>
+        
+    <seccion class="main container"></seccion>
+    
+    <main>
+        <div class="box">
+        <!-- <div class="container-5"> -->
+            
+            <center>
+                <div class="container-5">
+                      
+                    <font size =5 face="Times new roman">
+                        
+                        <br>
+                        Acá podrás realizar consultas para conocer que tipo de delitos pueden 
+                        ocurrir en un barrio precisando el día, mes y hora. <b>¡Espero te sirva de ayuda!</b> 
+                        <br>
+                                          
+                    </font>   
+                                        
+                </div>
+            </center>
+                
+            <!-- </div> -->
+        </div>
+
+        <div class="box-2">
+            <center>
+                <div class="container-form">   
+                    <b>Formulario de consulta.</b> 
+                    <form method = "POST" action = "{{url_for ('predict')}}">
+                                     
+                    <div id="hora_div">
+                        <span class="icon-edit" style="font-size: 200%; color: black;"></span><strong>Hora:</strong>
+                        <select name="hora">
+                        <option>Selecciona opción</option>
+                        <option>1</option>                  
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                        <option>8</option>
+                        <option>9</option>
+                        <option>10</option>
+                        <option>11</option>
+                        <option>12</option>
+                        <option>13</option>
+                        <option>14</option>
+                        <option>15</option>
+                        <option>16</option>
+                        <option>17</option>
+                        <option>18</option>
+                        <option>19</option>
+                        <option>20</option>
+                        <option>21</option>
+                        <option>22</option>
+                        <option>23</option>
+                        <option>24</option>
+                    </select>
+
+                    </div>
+                
+                    <div id="dia_div">
+                        <span class="icon-text-document" style="font-size: 200%; color: black;"></span><strong>Día:</strong>
+                        <select name="dia">
+                        <option>Selecciona opción</option>
+                        <option>1</option>                  
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                        <option>8</option>
+                        <option>9</option>
+                        <option>10</option>
+                        <option>11</option>
+                        <option>12</option>
+                        <option>13</option>
+                        <option>14</option>
+                        <option>15</option>
+                        <option>16</option>
+                        <option>17</option>
+                        <option>18</option>
+                        <option>19</option>
+                        <option>20</option>
+                        <option>21</option>
+                        <option>22</option>
+                        <option>23</option>
+                        <option>24</option>
+                        <option>25</option>
+                        <option>26</option>
+                        <option>27</option>
+                        <option>28</option>
+                        <option>29</option>
+                        <option>30</option>
+                        <option>31</option>
+                    </select>
+
+                    </div>
+                
+                    <div id="mes_div">
+                        <span class="icon-documents" style="font-size: 200%; color: black;"></span><strong>Mes:</strong>
+                        <select name="mes">
+                        <option>Selecciona opción</option>
+                        <option>1</option>                  
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                        <option>8</option><
+                        <option>9</option>
+                        <option>10</option>
+                        <option>11</option>
+                        <option>12</option>
+                    </select>
+
+                    </div>
+                                                                
+                    <div id="barrio_div">
+                        <span class="icon-address" style="font-size: 200%; color: black;"></span><strong>Barrio:</strong>
+                        <select name="barrio">
+                        <option>Selecciona opción</option>
+                        <option>Agronomía </option>
+                        <option>Almagro</option>
+                        <option>Balvanera</option>
+                        <option>Barracas </option>
+                        <option>Belgrano </option>
+                        <option>Boca</option>
+                        <option>Boedo</option>
+                        <option>Caballito</option>
+                        <option>Chacarita</option>
+                        <option>Constitución</option>
+                        <option>Colegiales </option>
+                        <option>Coghlan</option>
+                        <option>Flores</option>
+                        <option>Floresta</option>                  
+                        <option>Liniers </option>
+                        <option>Palermo</option>
+                        <option>Mataderos</option>
+                        <option>Nueva Pompeya</option>
+                        <option>Nuñez</option> 
+                        <option>Monserrat</option>
+                        <option>Monte Castro</option>   
+                        <option>Parque Chacabuco</option>
+                        <option>Parque Patricios</option>
+                        <option>Paternal</option>
+                        <option>Parque Chas</option>
+                        <option>Puerto Madero</option>
+                        <option>Recoleta  </option>
+                        <option>Retiro</option> 
+                        <option>Saavedra</option>
+                        <option>San Cristóbal</option>
+                        <option>San Nicolás </option>
+                        <option>San Telmo</option>
+                        <option>Vélez Sársfield</option>                 
+                        <option>Villa Lugano</option>                      
+                        <option>Villa Crespo</option>
+                        <option>Villa Devoto </option>
+                        <option>Villa Gral. Mitre </option>
+                        <option>Villa Pueyrredón</option>
+                        <option>Villa Santa Rita</option> 
+                        <option>Villa Soldati</option>
+                        <option>Villa del Parque</option>
+                        <option>Villa Luro</option>
+                        <option>Villa Ortuzar </option>
+                        <option>Villa Riachuelo</option>
+                        <option>Villa Urquiza </option>
+                        <option>Villa Real</option>
+                        <option>Versalles</optin>
+                                            
+                    </select>
+
+                    </div>            
+                    <div></div>
+                    <input class= "button blue medium radius" type="submit" value="Buscar">
+                    <div></div>
+                    <br><h4>El tipo de delito que podría ocurrir es: </h4><br>
+                    <br><h4>{{prediction_text}}</h4><br>
+                </center>
+
+            </form>
+                </div>
+            </center>
+        </div>
+    </div>
+      
+    </main>
+    
+    
+                <footer class="pie">
+
+                    <center><h4><span class="icon-address" style="font-size: 100%; color:  hsl(123, 99%, 44%);"></span>Dirección: Puerto Madryn. 
+                        <span class="icon-documents" style="font-size: 100%; color:  blue;"></span>CP9120 - Chubut - Argentina  
+                        <span class="icon-email" style="font-size: 100%; color:  hsl(184, 99%, 44%);"></span>
+                        E-mail: johanarangeldo@gmail.com </h4></center>
+                    
+                </footer>
+             
+        
+        
+        <script src="../static/js/jquery.js"></script>                   
+</body>
+
+</html>

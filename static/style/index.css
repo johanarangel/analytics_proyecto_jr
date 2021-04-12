@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body{
+    
+    background-image: url('../media/busqueda.jpg'); 
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+h1{
+
+    text-align: center;
+    color:black;
+    font-size: 3em;
+    text-transform: uppercase;
+    font: 'averta';
+    position: center;
+    margin: 20px;
+    left: 5%;
+    top: 5%;
+    transform: translateX(-5%)  translateY(-5%);
+}
+
+h2{
+
+    text-align: justify;
+    color:whitesmoke;
+    font-size: 1em;
+    text-transform: uppercase;
+    font: 'averta';
+    position: center;
+    margin: 30px;
+    left: 40%;
+    top: 40%;
+    transform: translateX(-40%)  translateY(-40%);
+}
+
+h4 {
+    color: rgb(8, 8, 8);
+}    
+
+main {
+    column-count:2;
+}
+
+.box{
+  
+    width: 600px;
+    height: 380px;
+    background:rgba(126, 248, 248, 0.658);
+    border: none;
+    float: left;
+    color: #fff;
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.box-1{
+  
+    width: 1300px;
+    height: 130px;
+    background:#fdfcfcbe;
+    border: none;
+    font-size: 12pt;
+    float: left;
+    color: #fff;
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.container-4{
+    display: inline-block;
+    color: black;
+    
+    
+}
+
+
+.box-2{
+  
+    width: 800px;
+    height: 380px;
+    background:rgba(136, 144, 177, 0.533);
+    border: none;
+    font-size: 10pt;
+    float: left;
+    color: rgb(10, 8, 8);
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.container-5{
+    display: inline-block;
+    color: black;
+    position: relative;
+    display: flex;
+    align-items: center; 
+    height: 350px;
+}
+.container-form {
+  
+  z-index: 1;
+  background: #fdfcfc;
+  max-width: 300px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  position: absolute;
+  top: 20%;
+  left: 65%;
+  
+ 
+}
+
+
+.box-5{
+  
+    width: 1300px;
+    height: 130px;
+    background:#070707be;
+    border: none;
+    font-size: 12pt;
+    float: left;
+    color: #fff;
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
